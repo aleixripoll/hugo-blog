@@ -1,4 +1,10 @@
-.article-list {
-    display: grid;
-    grid-template: 1fr / 1fr 1fr;
+.article-time > div {
+	gap: 5px;
+}
+
+@media (min-width: 1400px) {
+    .article-list {
+        display: grid;
+        grid-template: 1fr / 1fr 1fr;
+    }
 }
