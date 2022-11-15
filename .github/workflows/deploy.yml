@@ -7,7 +7,7 @@ on:
         branches: [main]
 
 jobs:
-    build:
+    deploy:
         runs-on: ubuntu-latest
 
         steps:
@@ -26,7 +26,7 @@ jobs:
                   go-version: "^1.19.3"
             - run: go version
 
-            - name: Cache Go Modules
+            - name: Cache Go modules
               uses: actions/cache@v3
               with:
                   path: |
@@ -45,7 +45,7 @@ jobs:
             - name: Build
               run: hugo --minify --gc
 
-            - name: Deploy 🚀
+            - name: Deploy
               uses: JamesIves/github-pages-deploy-action@v4
               with:
                   branch: gh-pages
