@@ -2,7 +2,7 @@
 baseurl = "https://aleixripoll.github.io/hugo-blog"
 languageCode = "en-us"
 paginate = 6
-title = "Hugo Theme Stack Starter"
+title = "aleixripoll"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
