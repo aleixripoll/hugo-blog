@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maneras de amar'
-by: Amir Levine, Rachel Heller
+description: Amir Levine, Rachel Heller
 date: '2022-05-17T17:54:00.000+02:00'
 categories: [ assaig ]
 image: images/2022/maneras_de_amar.webp

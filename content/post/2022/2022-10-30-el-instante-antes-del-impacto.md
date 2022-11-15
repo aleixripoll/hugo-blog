@@ -1,6 +1,6 @@
 ---
 title: El instante antes del impacto
-by: Glòria de Castro
+description: Glòria de Castro
 date: '2022-10-30T07:03:00.000+02:00'
 categories: [ ficcio ]
 image: images/2022/instante_antes_impacto.webp
@@ -14,6 +14,6 @@ Sentir que podía ser otra persona, que tardarían más en darse cuenta de quié
 
 —Sos tan europea... —decía Horacio, y no: «Eres una puta neurótica del Vallès»
 
-<hr>
+---
 
 Yo quiero ser esto que soy y que alguien quiera este estropicio. Que alguien crea que aún se puede sacar algo de provecho de todo esto.

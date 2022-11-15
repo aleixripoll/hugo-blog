@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El poder del ahora'
-by: Eckhart Tolle
+description: Eckhart Tolle
 date: '2022-02-02T20:25:16.000+02:00'
 categories: [ assaig ]
 image: images/2022/eckhart_tolle.webp

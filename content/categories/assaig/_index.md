@@ -1,10 +1,10 @@
 ---
 title: Assaig
-description: Llibres, no ficció
+description: Literatura, no ficció
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#5a6ddf"
     color: "#fff"
 ---

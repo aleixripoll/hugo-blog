@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Psychology: A concise introduction'
-by: Richard A. Griggs, Sherri L. Jackson
+description: Richard A. Griggs, Sherri L. Jackson
 date: '2022-08-10T13:16:00.000+02:00'
 categories: [ assaig ]
 image: images/2022/kari-shea-unsplash.webp
@@ -9,7 +9,7 @@ image: images/2022/kari-shea-unsplash.webp
 
 The first experimental work on schemas and their effects on memory was conducted by Sir Frederick Bartlett in the first half of the twentieth century. Bartlett had his participants study some stories that were rather unusual. He then tested their memory for these stories at varying time intervals. When the participants recalled the stories, they made them more consistent with their own schemas about the world. For example, one story did not say anyone was wounded in the battle described, but participants recalled that many men were wounded, fitting their schemas for battles. Unusual details were normalized. For example, participants recalled incorrectly that the men in another story were fishing rather than hunting seals. In addition, the stories were greatly shortened in length when recalled. Strangely, the participants did not even realize that they were changing many of the details of the stories. In fact, the parts that they changed were those that they were most confident about remembering. Bartlett’s participants had reconstructed the stories using their schemas and did not even realize it. The main point to remember is that they distorted the stories in line with their schemas. Why? Schemas allow us to encode and retrieve information more efficiently. It would be impossible to encode and retrieve the exact details of every event in our lives. That’s why we need organizing schemas to guide us in this task, even though they do not provide an exact copy of what happened.
 
-<hr/>
+---
 
 Our behavior, however, does not always lead to good outcomes. How, then, do we deal with poor outcomes and maintain positive self-perception? To understand how we do so, we need to understand attribution, the process by which we explain our own behavior and that of others. There are two types of attributions, internal and external. An internal attribution means that the outcome is attributed to the person. An external attribution means that the outcome is attributed to factors outside the person. Let’s consider an example. You fail a psychology exam. Why? An internal attribution gives you the blame. For example, you might say, “I just didn’t study enough.” An external attribution would place the blame elsewhere. For example, you might say, “I knew the material, but that exam was unfair.” In this case, you tend to make an external attribution. Why?
 

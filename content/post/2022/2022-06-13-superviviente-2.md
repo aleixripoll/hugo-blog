@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superviviente'
-by: Chuck Palahniuk
+description: Chuck Palahniuk
 date: '2022-06-13T12:58:00.000+02:00'
 categories: [ ficcio ]
 image: images/2022/superviviente.webp

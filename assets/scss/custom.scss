@@ -2,6 +2,10 @@
 	gap: 5px;
 }
 
+.article-list article .article-image img {
+	height: 200px;
+}
+
 @media (min-width: 1400px) {
     .article-list {
         display: grid;

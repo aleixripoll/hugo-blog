@@ -3,7 +3,7 @@ title: Fundamentos de Psicobiología
 description: UNED
 slug: fundamentos-de-psicobiologia
 date: 2022-11-10 13:38:00+0200
-image: fundamentos_psicobiologia.webp
+image: brano-Mm1VIPqd0OA-unsplash.webp
 categories: 
     - Assaig
 tags:
@@ -42,3 +42,7 @@ Puesto que los linfocitos T sólo reconocen fragmentos del antígeno, necesitan 
 El sistema inmune reconoce a los componentes propios del organismo, distinguiéndolos de los ajenos, gracias a estas proteínas que se encuentran en la superficie de las células de todos los mamíferos y que constituyen el denominado **Complejo Mayor de Histocompatibilidad (CMH)**. Este complejo ha permanecido a lo largo de la evolución más de 300 millones de años, lo que da una idea de su importancia biológica; en el ser humano recibe el nombre de complejo **Antigénico Leucocitario Humano** o **HLA**.
 
 El Complejo Antigénico Leucocitario Humano (HLA) está codificado por más de 200 genes que ocupan un segmento del cromosoma 6 de unos 4 millones de pares de bases y que se expresan de forma codominante. Dado que algunos de los genes que codifican las proteínas HLA presentan más de 100 alelos (polimorfismo), la enorme cantidad de combinaciones posibles entre ellos hace bastante difícil encontrar dos personas con las mismas proteínas, algo fundamental para establecer la idoneidad de donantes compatibles en los transplantes de tejidos. El sistema inmune aprende a reconocer a estas proteínas como propias durante la etapa embrionaria, sin este proceso destruiría componentes del propio organismo con resultados fatales.
+
+
+> Photo by [Braňo](https://unsplash.com/@3dparadise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
