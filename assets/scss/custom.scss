@@ -2,7 +2,8 @@
 	gap: 5px;
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {*/
+[data-scheme="dark"] {
     #reactions .reaction-items .reaction-item .reaction-item__button .reaction-item__image-wrapper .reaction-item__votes-wrapper .reaction-item__votes {
         color: #222;
     }
