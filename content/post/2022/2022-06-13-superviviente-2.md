@@ -43,14 +43,3 @@ Pasa un cartel junto a la ventana en el que se lee: Abróchese el cinturón.
 
 —Si te preocupas todo el tiempo por un desastre, acabará por ocurrir —dice Fertility.
 
-Pasa un cartel junto a la ventana en el que se lee: Peligro, desprendimientos.
-
-Pasa un cartel junto a la ventana en el que se lee: Curvas peligrosas.
-
-Pasa un cartel junto a la ventana en el que se lee: Con pavimento mojado, peligro.
-
-Fuera, Nebraska se acerca más a cada minuto.
-
-El mundo entero es un desastre a punto de suceder.
-
-—Quiero que sepas que no siempre estaré junto a ti —dice Fertility—, pero que siempre sabré encontrarte.

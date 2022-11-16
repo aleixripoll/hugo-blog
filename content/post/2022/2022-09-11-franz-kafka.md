@@ -19,15 +19,11 @@ image: images/2022/franz_kafka.webp
 
 > Normalmente resuelvo los problemas dejando que me devoren.
 
-> Vivimos en una era tan poseída por los demonios, que pronto solo podremos hacer el bien y la justicia en el más profundo secreto, como si fuera un crimen.
-
 > Toda revolución se evapora y deja atrás una estela de burocracia.
 
 > Los libros son un narcótico.
 
 > Debo confesar que una vez envidié mucho a alguien porque era amado, cuidado, defendido de la razón y de la fuerza y porque yacía en paz bajo las flores. Yo siempre tengo la envidia al alcance de la mano.
-
-> Un libro debe ser el hacha que rompa el mar helado que hay dentro de nosotros.
 
 > Lo estoy haciendo mal, lo estoy haciendo bien; lo que tú prefieras.
 
