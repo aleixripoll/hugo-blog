@@ -26,7 +26,7 @@
     padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
 }
 
-[data-scheme="light"] {
+[data-scheme="dark"] {
     #reactions
         .reaction-items
         .reaction-item
@@ -41,7 +41,7 @@
         .reaction-item__image-wrapper
         .reaction-item__votes-wrapper
         .reaction-item__votes {
-        color: #111;
+        color: #111 !important;
     }
 }
 
