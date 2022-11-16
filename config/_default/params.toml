@@ -2,6 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
+favicon = "images/favicon.ico"
 
 [footer]
 since = 2008
@@ -17,7 +18,7 @@ subtitle = "Possiblement el blog més guai del món."
 
 [sidebar.avatar]
 enabled = false
-local = true
+local = false
 src = "images/avatar.webp"
 
 [article]
