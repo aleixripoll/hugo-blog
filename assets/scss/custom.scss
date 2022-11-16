@@ -26,25 +26,6 @@
     padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
 }
 
-[data-scheme="dark"] {
-    #reactions
-        .reaction-items
-        .reaction-item
-        .reaction-item__button
-        .reaction-item__image-wrapper
-        .reaction-item__votes-wrapper
-        .reaction-item__votes,
-    #reactions-promotion
-        .reaction-items
-        .reaction-item
-        .reaction-item__button
-        .reaction-item__image-wrapper
-        .reaction-item__votes-wrapper
-        .reaction-item__votes {
-        color: #111 !important;
-    }
-}
-
 @media (min-width: 1400px) {
     .article-list {
         display: grid;
