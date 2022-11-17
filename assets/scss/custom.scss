@@ -26,10 +26,8 @@
     padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
 }
 
-@media (prefers-color-scheme: dark) {
-    #disqus_thread a {
-        color: #1092b3;
-    }
+#disqus_thread a {
+    color: #1092b3;
 }
 
 @media (min-width: 1400px) {
