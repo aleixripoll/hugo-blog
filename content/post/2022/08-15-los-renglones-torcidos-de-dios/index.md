@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Los renglones torcidos de Dios
 description: Torcuato Luca de Tena
-date: '2022-08-15T21:20:00.000+02:00'
-categories: [ ficcio ]
-image: images/2022/renglones_torcidos_dios.webp
+date: 2022-08-15 21:20:00+0200
+image: los-renglones-torcidos-de-dios.webp
+categories: [ llibres ]
+tags:
+    - ES
+    - Novel·la
+    - Ficció
+    - Psicologia
 ---
 
 Recordaba, en fin, las palabras del "Autor de la Teoría de los Nueve Universos" que le relató Dolores Bernardos: "Los locos son una terrible equivocación de la Naturaleza; son las faltas de ortografía de Dios", y, al rememorarlo, lloraba de nuevo.

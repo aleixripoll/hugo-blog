@@ -1,6 +1,6 @@
 ---
-title: Assaig
-description: Literatura, no ficció
+title: Llibres
+description: Literatura de tot tipus
 image:
 
 # Badge style

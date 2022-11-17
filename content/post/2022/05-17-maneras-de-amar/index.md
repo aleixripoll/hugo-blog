@@ -1,10 +1,13 @@
 ---
-layout: post
-title: 'Maneras de amar'
+title: Maneras de amar
 description: Amir Levine, Rachel Heller
-date: '2022-05-17T17:54:00.000+02:00'
-categories: [ assaig ]
-image: images/2022/maneras_de_amar.webp
+date: 2022-05-17 17:54:00+0200
+image: maneras_de_amar.webp
+categories: [ llibres ]
+tags:
+    - ES
+    - Psicologia
+    - Assaig
 ---
 
 Supongamos que superas los obstáculos derivados de las estadísticas y conoces a alguien seguro. Hace muchos años, Rachel intentó emparejar a su vecina Chloe con un conocido, Trevor, un gran partido de estilo seguro. El chico, que en aquel entonces estudiaba medicina, estaba deseando conocer a alguien, tras haber roto con la que fuera su novia durante diez años, desde los 18 hasta los 28. De haber dependido de él, no se habrían separado, aunque ella siempre parecía insatisfecha; al final, lo abandonó. Trevor pasó bastante tiempo muy triste, pero estaba dispuesto a volver a salir con alguien. Era muy guapo, tenía sentido del humor y estaba en forma. Poseía una gran fuerza de voluntad, era una persona equilibrada y procedía de una buena familia. Sobre el papel, la pareja ideal, ¿verdad?

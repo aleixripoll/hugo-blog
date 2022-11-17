@@ -1,10 +1,13 @@
 ---
-layout: post
-title: 'Superviviente'
+title: Superviviente
 description: Chuck Palahniuk
-date: '2022-06-13T12:58:00.000+02:00'
-categories: [ ficcio ]
-image: images/2022/palahniuk.webp
+date: 2022-06-13 12:58:00+0200
+image: palahniuk.webp
+categories: [ llibres ]
+tags:
+    - ES
+    - Novel·la
+    - Ficció
 ---
 
 Con los ojos cerrados le pregunto si sabe cómo acabará todo esto.

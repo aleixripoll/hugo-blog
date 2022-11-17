@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Lletra
 description: Miquel Martí i Pol
-date: '2022-09-01T07:35:00.000+02:00'
-categories: [ poesia ]
-image: images/2022/marti_pol.webp
+date: 2022-09-01 07:35:00+0200
+image: marti_pol.webp
+categories: [ llibres ]
+tags:
+    - CAT
+    - Poesia
 ---
 
 Ara que estic ben sol i és nit a fora\
@@ -64,4 +66,3 @@ que només ens pertany aquest silenci\
 que compartim, i el risc de creure i créixer\
 com arbres isolats que uneix, a estones,\
 un mateix vent o una mateixa pluja.
-
