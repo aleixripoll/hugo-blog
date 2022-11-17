@@ -2,7 +2,7 @@
     --body-text-color: #777;
     --card-text-color-tertiary: #999;
     --card-text-color-main: #333;
-    --article-font-size: 1.8rem;
+    --article-line-height: 1.6;
 }
 
 .article-time > div {
@@ -23,7 +23,8 @@
 }
 
 .article-page .main-article .article-content {
-    margin: 50px 0;
+    margin: 50px auto;
+    max-width: 800px;
 }
 
 .article-content blockquote {
@@ -38,6 +39,10 @@
 }
 
 @media (min-width: 1400px) {
+    :root {
+        --article-font-size: 1.8rem;
+    }
+
     .article-list {
         display: grid;
         grid-template: 1fr / 1fr 1fr;
