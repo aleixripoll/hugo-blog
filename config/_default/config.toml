@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://aleixripoll.github.io/hugo-blog"
+baseurl = "https://aleixripoll.github.io/limbo"
 languageCode = "en-us"
 paginate = 6
 title = "aleixripoll"
