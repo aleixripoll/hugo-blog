@@ -1,5 +1,5 @@
 ---
-title: Ficció
+title: Novel·la
 description: Literatura, novel·la
 image:
 
