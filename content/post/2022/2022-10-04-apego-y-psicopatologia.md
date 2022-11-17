@@ -30,4 +30,4 @@ A menudo pueden maltratar a familiares y amigos como forma de lograr sus fines s
 Es otro ejemplo de cómo en psicología podemos llegar a situaciones opuestas partiendo del mismo síntoma.
 
 
-*Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+> Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

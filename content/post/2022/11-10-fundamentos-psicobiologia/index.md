@@ -1,12 +1,13 @@
 ---
 title: Fundamentos de Psicobiología
 description: UNED
-slug: fundamentos-de-psicobiologia
+#slug: 2022/fundamentos-de-psicobiologia
 date: 2022-11-10 13:38:00+0200
-image: brano-Mm1VIPqd0OA-unsplash.webp
+image: hero.webp
 categories: 
-    - Assaig
+    - Literatura
 tags:
+    - Assaig
     - Psicologia
 ---
 

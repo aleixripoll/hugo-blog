@@ -17,6 +17,10 @@
     text-indent: 30px;
 }
 
+:root[data-scheme="dark"] {
+    --accent-color: #8fb8c5;
+}
+
 .article-page .main-article .article-content {
     margin: 50px 0;
 }
@@ -26,8 +30,10 @@
     padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
 }
 
-#disqus_thread a {
-    color: #1092b3;
+// remove img link when inside post
+.article-page .main-article .article-image a {
+    pointer-events: none;
+    cursor: default;
 }
 
 @media (min-width: 1400px) {

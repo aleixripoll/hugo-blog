@@ -1,9 +1,13 @@
 ---
 title: El instante antes del impacto
 description: Glòria de Castro
-date: '2022-10-30T07:03:00.000+02:00'
-categories: [ ficcio ]
-image: images/2022/instante_antes_impacto.webp
+date: 2022-10-30 07:03:00+0200
+image: hero.webp
+categories: 
+    - Literatura
+tags:
+    - Novel·la
+    - Ficció
 ---
 
 Después de unos cuantos fracasos de pareja, preferí salir con hombres de lugares lejanos. Milán. Ámsterdam. Suecia.

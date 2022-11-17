@@ -10,7 +10,7 @@ How much does your life weigh? Imagine for a second that you’re carrying a bac
 
 The backpack should be getting pretty heavy now. And you go bigger. Your couch, bed, your kitchen table. Stuff it all in there. Your car, get it in there. Your home, whether it’s a studio apartment or a two bedroom house. I want you to stuff it all into that backpack. Now try to walk. It’s kind of hard, isn’t it? This is what we do to ourselves on a daily basis. We weigh ourselves down until we can’t even move. And make no mistake, moving is living.
 
-Now, I’m gonna set that backpack on fire. What do you want to take out of it? What do you want to take out of it? Photos? Photos are for people who can’t remember. Drink some ginkgo and let the photos burn. In fact, let everything burn and imagine waking up tomorrow with nothing. It’s kind of exhilarating, isn’t it?
+Now, I’m gonna set that backpack on fire. What do you want to take out of it? Photos? Photos are for people who can’t remember. Drink some ginkgo and let the photos burn. In fact, let everything burn and imagine waking up tomorrow with nothing. It’s kind of exhilarating, isn’t it?
 
 Now, this is gonna be a little difficult, so stay with me. You have a new backpack. Only this time, I want you to fill it with people. Start with casual acquaintances, friends of friends, folks around the office, and then you move into the people that you trust with your most intimate secrets. Your cousins, your aunts, your uncles, your brothers, your sisters, your parents and finally your husband, your wife, your boyfriend or your girlfriend.
 
