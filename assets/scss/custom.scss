@@ -26,14 +26,18 @@
     padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
 }
 
-#reactions
-    .reaction-items
-    .reaction-item
-    .reaction-item__button
-    .reaction-item__image-wrapper
-    .reaction-item__votes-wrapper
-    .reaction-item__votes {
-    color: #444;
+@media (prefers-color-scheme: dark) {
+    iframe[src*="disqus.com"] {
+        #reactions
+            .reaction-items
+            .reaction-item
+            .reaction-item__button
+            .reaction-item__image-wrapper
+            .reaction-item__votes-wrapper
+            .reaction-item__votes {
+            color: #444;
+        }
+    }
 }
 
 @media (min-width: 1400px) {
