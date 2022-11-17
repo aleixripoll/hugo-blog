@@ -4,7 +4,7 @@ title: 'Superviviente'
 description: Chuck Palahniuk
 date: '2022-06-13T12:58:00.000+02:00'
 categories: [ ficcio ]
-image: images/2022/superviviente.webp
+image: images/2022/palahniuk.webp
 ---
 
 Con los ojos cerrados le pregunto si sabe cómo acabará todo esto.
