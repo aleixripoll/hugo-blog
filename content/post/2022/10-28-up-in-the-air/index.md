@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Up in the air
-date: '2022-10-28T21:00:00.000+02:00'
+date: 2022-10-28 21:00:00+0200
 categories: [ TV ]
-image: images/2022/up_in_the_air.webp
+image: up_in_the_air.webp
+tags:
+    - EN
 ---
 
 How much does your life weigh? Imagine for a second that you’re carrying a backpack. I want you to feel the straps on your shoulders. Feel ’em? Now I want you to pack it with all the stuff that you have in your life. You start with the little things. The things on shelves and in drawers, the knick-knacks, the collectibles. Feel the weight as that adds up. Then you start adding larger stuff, clothes, table-top appliances, lamps, linens, your TV.

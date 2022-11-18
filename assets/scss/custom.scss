@@ -1,38 +1,50 @@
+$defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ebc96d, #6b69d6 !default;
+
 :root {
     --body-text-color: #777;
     --card-text-color-tertiary: #999;
     --card-text-color-main: #333;
     --article-line-height: 1.6;
+
+    &[data-scheme="dark"] {
+        --accent-color: #8fb8c5;
+    }
+}
+
+.main-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menu {
+    font-size: 1.5rem;
 }
 
 .article-time > div {
     gap: 5px;
 }
 
-.article-list article .article-image img {
-    height: 200px;
+article {
+    .article-image img {
+        height: 200px;
+    }
+    .article-content {
+        margin: 50px auto;
+
+        blockquote {
+            //font-size: 0.8em;
+            padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
+        }
+
+        > p {
+            margin: 0.8em auto;
+            text-indent: 30px;
+            max-width: 700px;
+        }
+    }
 }
 
-.article-content > p {
-    margin: 0.8em 0;
-    text-indent: 30px;
-}
-
-:root[data-scheme="dark"] {
-    --accent-color: #8fb8c5;
-}
-
-.article-page .main-article .article-content {
-    margin: 50px auto;
-    max-width: 800px;
-}
-
-.article-content blockquote {
-    //font-size: 0.8em;
-    padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
-}
-
-// remove img link when inside post
+// remove img link inside post
 .article-page .main-article .article-image a {
     pointer-events: none;
     cursor: default;

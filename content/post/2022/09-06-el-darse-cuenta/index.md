@@ -1,10 +1,13 @@
 ---
-layout: post
 title: El darse cuenta
 description: John O. Stevens
-date: '2022-09-06T19:25:00.000+02:00'
+date: 2022-09-06 19:25:00+0200
+image: el_darse_cuenta.webp
 categories: [ Literatura, No-ficció ]
-image: images/2022/el_darse_cuenta.webp
+tags:
+    - ES
+    - Assaig
+    - Creixement personal
 ---
 
 Aunque la imaginación puede ser útil, dese cuenta que todo el tiempo empleado en pensamientos y fantasías es tiempo que transcurre lejos del real darse cuenta y/o del contacto con su vida. La mayoría de nosotros gasta gran parte de nuestras vidas esperando y planeando cosas que nunca llegarán y preocupándose de cosas que nunca sucederán. Nuestras fantasías pueden ser valiosas en la medida que estén integradas con nuestra vida, sirvan de apoyo y dejen lugar al darse cuenta y a la vivencia. Pero cuando la imaginación está separada del resto de la vida, se convierte en una vía muerta, un escape de la vida. Eso es lo que pretende una excesiva actividad de la fantasía: evitar los desafíos, los riesgos y las experiencias desagradables que son una parte necesaria de la vida. Cada vez que evitamos tales cosas, nos morimos un poco más, perdemos más contacto con nosotros mismos y con nuestro entorno. Cuando uno pierde contacto con una zona desagradable de su vida, también está perdiendo contacto con lo agradable y otro potencial del valor. Antes di el ejemplo de un joven que perdía muchísimo tiempo imaginando que pedía una cita a una joven. Sus fantasías inconducentes son los medios por los que evita un posible rechazo y desagrado. Pero mientras hace esto, pierde toda posibilidad de éxito, gozar de su compañía, su aprecio o su amor, etc. Los muros que alejan las flechas y lanzas, también alejan besos y rosas.
@@ -16,4 +19,4 @@ Una de las maneras más comunes de no respetar a una persona es correr en su ayu
 (...) El modo de ayudar verdaderamente a alguien no es ayudándolo a hacer algo, sino ayudarlo a darse más cuenta de su propia experiencia –sus sentimientos, acciones, fantasías– e insistiendo en que explore su propia experiencia más profundamente y se haga responsable de ella, sea cual fuere. Con frecuencia esto significa señalar cómo la persona elude su experiencia y frustrar este eludir. Si una persona está triste, debe explorar la tristeza y vivenciarla más profundamente antes de que pueda asimilarla y desarrollarla. Si una persona está enojada, debe sentir y expresar realmente su enojo antes de poder admitirlo en su vida. La única salida es *a través de*.
 
 
-*Photo by <a href="https://unsplash.com/es/@cfitz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cody Fitzgerald</a> on <a href="https://unsplash.com/s/photos/flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+> Photo by <a href="https://unsplash.com/es/@cfitz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cody Fitzgerald</a> on <a href="https://unsplash.com/s/photos/flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -1,10 +1,13 @@
 ---
-layout: post
-title: 'Introducción a la Psicología Social'
+title: Introducción a la Psicología Social
 description: UNED
-date: '2022-10-16T14:14:00.000+02:00'
+date: 2022-10-16 14:14:00+0200
+image: psicologia_social.webp
 categories: [ Literatura, No-ficció ]
-image: images/2022/psicologia_social.webp
+tags:
+    - ES
+    - Assaig
+    - Psicologia
 ---
 
 La investigación muestra que el recién nacido, sin un contacto permanente con los demás, no pasaría de ser un mero organismo biológico, como han puesto de relieve los estudios de casos extremos, como el de los llamados «niños lobo» o el de los que se han encontrado encerrados en graneros o establos. Ninguno de estos niños, a pesar de haber conseguido sobrevivir aislados de todo contacto humano hasta su descubrimiento y posterior integración a la sociedad, llegó a alcanzar el nivel afectivo, intelectual y lingüístico necesario para una inclusión social plena y fluida.

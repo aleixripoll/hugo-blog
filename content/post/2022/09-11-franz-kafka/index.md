@@ -1,10 +1,12 @@
 ---
-layout: post
-title: Soy una jaula...
+title: Soy una jaula
 description: Franz Kafka
-date: '2022-09-11T14:18:00.000+02:00'
-categories: [ Literatura, Aforismes ]
-image: images/2022/franz_kafka.webp
+date: 2022-09-11 14:18:00+0200
+image: franz_kafka.webp
+categories: [ Literatura, No-ficció ]
+tags:
+    - ES
+    - Aforismes
 ---
 
 > Empieza con lo que es correcto en lugar de con lo que es aceptable.
