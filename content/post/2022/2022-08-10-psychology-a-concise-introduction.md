@@ -3,7 +3,7 @@ layout: post
 title: 'Psychology: A concise introduction'
 description: Richard A. Griggs, Sherri L. Jackson
 date: '2022-08-10T13:16:00.000+02:00'
-categories: [ assaig ]
+categories: [ Literatura, No-ficció ]
 image: images/2022/psychology_concise_intro.webp
 ---
 

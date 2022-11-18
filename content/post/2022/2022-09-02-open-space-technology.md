@@ -3,7 +3,7 @@ layout: post
 title: Open Space Technology
 description: Harrison Owen
 date: '2022-09-02T07:20:00.000+02:00'
-categories: [ assaig ]
+categories: [ Literatura, No-ficció ]
 image: images/2022/open_space_technology.webp
 ---
 

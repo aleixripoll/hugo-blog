@@ -3,7 +3,7 @@ layout: post
 title: Soy una jaula...
 description: Franz Kafka
 date: '2022-09-11T14:18:00.000+02:00'
-categories: [ cites ]
+categories: [ Literatura, Aforismes ]
 image: images/2022/franz_kafka.webp
 ---
 

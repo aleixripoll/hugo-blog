@@ -1,7 +1,7 @@
 ---
 title: Jocs
 description: Videojocs
-image:
+image: images/jocs.webp
 
 # Badge style
 style:

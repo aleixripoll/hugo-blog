@@ -4,11 +4,10 @@ description: Glòria de Castro
 date: 2022-10-30 07:03:00+0200
 image: instante_antes_impacto.webp
 categories: 
-    - Llibres
+    - Literatura
+    - Ficció
 tags:
     - ES
-    - Novel·la
-    - Ficció
 ---
 
 Después de unos cuantos fracasos de pareja, preferí salir con hombres de lugares lejanos. Milán. Ámsterdam. Suecia.

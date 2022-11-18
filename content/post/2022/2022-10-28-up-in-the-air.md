@@ -2,7 +2,7 @@
 layout: post
 title: Up in the air
 date: '2022-10-28T21:00:00.000+02:00'
-categories: [ tv ]
+categories: [ TV ]
 image: images/2022/up_in_the_air.webp
 ---
 

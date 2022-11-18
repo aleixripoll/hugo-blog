@@ -5,12 +5,12 @@ description: UNED
 date: 2022-11-10 13:38:00+0200
 image: psicobiologia.webp
 categories: 
-    - Llibres
+    - Literatura
+    - No-ficció
 tags:
     - ES
-    - UNED
+    - Educació
     - Psicologia
-    - Assaig
 ---
 
 Se estima que cada persona porta una o dos mutaciones recesivas letales y varios cientos ligeramente deletéreas en heterocigosis.

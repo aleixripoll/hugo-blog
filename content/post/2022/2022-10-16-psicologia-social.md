@@ -3,7 +3,7 @@ layout: post
 title: 'Introducción a la Psicología Social'
 description: UNED
 date: '2022-10-16T14:14:00.000+02:00'
-categories: [ assaig ]
+categories: [ Literatura, No-ficció ]
 image: images/2022/psicologia_social.webp
 ---
 

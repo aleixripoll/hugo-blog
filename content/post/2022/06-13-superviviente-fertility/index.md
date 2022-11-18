@@ -3,11 +3,9 @@ title: Superviviente
 description: Chuck Palahniuk
 date: 2022-06-13 12:58:00+0200
 image: palahniuk.webp
-categories: [ llibres ]
+categories: [ Literatura, Ficció ]
 tags:
     - ES
-    - Novel·la
-    - Ficció
 ---
 
 Con los ojos cerrados le pregunto si sabe cómo acabará todo esto.

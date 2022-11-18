@@ -3,7 +3,7 @@ title: Memento
 description: Christopher Nolan
 date: 2022-05-25 08:06:00+0200
 image: memento.webp
-categories: [ tv ]
+categories: [ TV ]
 tags:
     - EN
 ---
