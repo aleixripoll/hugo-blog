@@ -5,6 +5,6 @@ image: images/llibres_noficcio.webp
 
 # Badge style
 style:
-    background: "#8f97c5"
+    background: "#6b739c"
     color: "#fff"
 ---
