@@ -2,7 +2,7 @@
 title: "Psychology: A concise introduction"
 description: Richard A. Griggs, Sherri L. Jackson
 date: 2022-08-10 13:16:00+0200
-image: psychology_concise_intro.webp
+image: psychology-concise-intro.webp
 categories: [ Literatura, No-ficció ]
 tags:
     - EN
