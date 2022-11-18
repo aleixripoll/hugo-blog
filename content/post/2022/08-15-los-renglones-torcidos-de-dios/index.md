@@ -3,7 +3,7 @@ title: Los renglones torcidos de Dios
 slug: renglones-torcidos-dios
 description: Torcuato Luca de Tena
 date: 2022-08-15 21:20:00+0200
-image: renglones_torcidos_dios.webp
+image: hero.webp
 categories: [ Literatura, Ficció ]
 tags:
     - ES
