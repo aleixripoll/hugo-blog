@@ -44,10 +44,15 @@ article {
     }
 }
 
-// remove img link inside post
-.article-page .main-article .article-image a {
-    pointer-events: none;
-    cursor: default;
+.article-page .main-article {
+    // remove img link inside post
+    .article-image a {
+        pointer-events: none;
+        cursor: default;
+    }
+    .article-footer .article-tags {
+        margin-top: 50px;
+    }
 }
 
 .icon-tabler-brand-instagram > path {
