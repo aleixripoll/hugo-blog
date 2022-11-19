@@ -50,6 +50,11 @@ article {
     cursor: default;
 }
 
+.icon-tabler-brand-instagram > path {
+    fill: var(--body-text-color);
+    stroke-width: 6px;
+}
+
 @media (min-width: 1400px) {
     :root {
         --article-font-size: 1.8rem;

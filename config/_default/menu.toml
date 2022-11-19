@@ -18,7 +18,15 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://twitter.com/aleix_ripoll"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/aleix_ripoll"
+
+[social.params]
+icon = "brand-instagram"
