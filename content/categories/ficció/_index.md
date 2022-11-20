@@ -5,6 +5,6 @@ image: images/llibres_ficcio.webp
 
 # Badge style
 style:
-    background: "#ba8fc5"
+    background: "#a36cb1"
     color: "#fff"
 ---
