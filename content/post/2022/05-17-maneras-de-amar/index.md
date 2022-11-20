@@ -18,10 +18,9 @@ Considerando la situación en retrospectiva, la reacción de Chloe es comprensib
 
 Chloe estaba destinada a pasarlo mal porque daba por sentado que un sistema de apego activado constituía un requisito indispensable para enamorarse. Tony, el hombre que acabó por convertirse en su marido, al principio le pareció seguro de sí mismo e interesante, pero no desaprovechaba la menor oportunidad de denigrarla.
 
+---
 
-(...)
-
-<h3>¿Qué pasa cuando aceptas los consejos de la sabiduría popular para sacar adelante una relación?</h3>
+### ¿Qué pasa cuando aceptas los consejos de la sabiduría popular para sacar adelante una relación?
 
 Imaginemos que decides seguir los consejos que acostumbran a dar los libros más populares sobre relaciones. Te ofrecen pautas para «conseguir» pareja, como por ejemplo: no te muestres demasiado accesible, di que estás ocupado aunque no sea verdad, no llames, no dejes que note lo mucho que te importa, envuélvete en un halo de misterio. En el mejor de los casos, actuando así preservarás tu dignidad y tu independencia, incluso te ganarás el respeto de tu pareja. Pero en realidad, al conducirte de ese modo, no estarás siendo fiel a tus verdaderos sentimientos y necesidades. Los estarás dejando de lado para ofrecer una imagen fuerte y autosuficiente. Y sin duda esos libros y los consejos que ofrecen llevan razón; ese tipo de actitud te reportará atractivo. Lo que no mencionan, porque no conocen la ciencia del apego, es que esta actitud te hará más interesante a ojos de un tipo de pareja en particular: la evasiva. ¿Por qué? Porque, en esencia, te incitan a ignorar tus necesidades dejando que la otra persona decida el grado de proximidad o de distancia en la relación. La persona evasiva se hará con su parte del pastel y se la comerá, por así decirlo; disfrutará de la emoción y de la intimidad que dos personas proyectan de forma natural cuando están juntas, sin tener que considerar tus necesidades de intimidad y apego el resto del tiempo. Al convertirte en alguien que no eres, permites que el otro esté contigo en sus propios términos, que vaya y venga cuando le plazca.
 
