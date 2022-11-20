@@ -5,7 +5,6 @@ description: UNED
 date: 2022-11-10 13:38:00+0200
 image: psicobiologia.webp
 categories: 
-    - Literatura
     - No-ficció
 tags:
     - ES

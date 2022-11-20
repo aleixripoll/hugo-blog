@@ -60,6 +60,10 @@ article {
     stroke-width: 6px;
 }
 
+.sidebar header .site-name {
+    font-size: 2rem;
+}
+
 @media (min-width: 1400px) {
     :root {
         --article-font-size: 1.8rem;

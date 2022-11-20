@@ -3,7 +3,7 @@ title: El darse cuenta
 description: John O. Stevens
 date: 2022-09-06 19:25:00+0200
 image: el_darse_cuenta.webp
-categories: [ Literatura, No-ficció ]
+categories: [ No-ficció ]
 tags:
     - ES
     - Assaig

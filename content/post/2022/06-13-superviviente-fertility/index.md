@@ -4,7 +4,7 @@ slug: superviviente-fertility
 description: Chuck Palahniuk
 date: 2022-06-13 12:58:00+0200
 image: palahniuk.webp
-categories: [ Literatura, Ficció ]
+categories: [ Ficció ]
 tags:
     - ES
 ---

@@ -3,7 +3,7 @@ title: 'Apego y psicopatología: la ansiedad y su origen'
 description: Manuel Hernández Pacheco
 date: 2022-10-04 17:11:00+0200
 image: apego.webp
-categories: [ Literatura, No-ficció ]
+categories: [ No-ficció ]
 tags:
     - ES
     - Assaig

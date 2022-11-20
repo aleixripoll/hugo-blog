@@ -4,7 +4,6 @@ description: Glòria de Castro
 date: 2022-10-30 07:03:00+0200
 image: instante_impacto.webp
 categories: 
-    - Literatura
     - Ficció
 tags:
     - ES

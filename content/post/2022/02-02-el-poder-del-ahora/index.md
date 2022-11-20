@@ -4,7 +4,6 @@ description: Eckhart Tolle
 date: 2022-02-02 20:25:16+0200
 image: eckhart_tolle.webp
 categories:
-    - Literatura
     - No-ficció
 tags:
     - ES

@@ -3,7 +3,7 @@ title: Dejar ir
 description: David R. Hawkins
 date: 2022-06-12 17:37:00+0200
 image: dejar_ir.webp
-categories: [ Literatura, No-ficció ]
+categories: [ No-ficció ]
 tags:
     - ES
     - Psicologia
