@@ -6,7 +6,6 @@ image: apego.webp
 categories: [ No-ficció ]
 tags:
     - ES
-    - Assaig
     - Psicologia
 ---
 

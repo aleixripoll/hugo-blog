@@ -6,7 +6,6 @@ image: open_space_technology.webp
 categories: [ No-ficció ]
 tags:
     - EN
-    - Assaig
 ---
 
 Behavior at an Open Space gathering is guided by four principles and one law.

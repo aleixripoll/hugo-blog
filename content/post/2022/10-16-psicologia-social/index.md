@@ -6,7 +6,6 @@ image: psicologia_social.webp
 categories: [ No-ficció ]
 tags:
     - ES
-    - Assaig
     - Psicologia
 ---
 

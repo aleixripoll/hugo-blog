@@ -7,7 +7,6 @@ categories:
     - No-ficció
 tags:
     - ES
-    - Assaig
     - Creixement personal
 ---
 

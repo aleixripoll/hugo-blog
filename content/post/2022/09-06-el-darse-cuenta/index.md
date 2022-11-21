@@ -6,7 +6,6 @@ image: el_darse_cuenta.webp
 categories: [ No-ficció ]
 tags:
     - ES
-    - Assaig
     - Creixement personal
 ---
 
