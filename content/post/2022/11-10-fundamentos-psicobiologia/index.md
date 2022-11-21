@@ -8,7 +8,6 @@ categories:
     - No-ficció
 tags:
     - ES
-    - Educació
     - Psicologia
 ---
 
