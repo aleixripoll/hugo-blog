@@ -5,6 +5,6 @@ image: images/tv.webp
 
 # Badge style
 style:
-    background: "#2a8f9d"
+    background: "#3a7980"
     color: "#fff"
 ---

@@ -2,13 +2,24 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ebc96d, #6b69d6 !default;
 
 :root {
     --body-text-color: #777;
-    --card-text-color-tertiary: #999;
     --card-text-color-main: #333;
+    --card-text-color-tertiary: #999;
     --article-line-height: 1.6;
+    --card-background: #fdfdfd;
+
+    &[data-scheme="light"] {
+        --accent-color: rgb(168, 72, 72);
+        --card-text-color-secondary: rgb(195, 72, 72);
+    }
 
     &[data-scheme="dark"] {
         --accent-color: #8fb8c5;
+        --card-text-color-secondary: #8fb8c5;
     }
+}
+
+.widget.archives .archives-year a span.year {
+    font-weight: unset;
 }
 
 .main-container {
@@ -25,7 +36,12 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ebc96d, #6b69d6 !default;
 }
 
 .pagination {
-    justify-content: center;
+    //justify-content: center;
+    align-self: center;
+    max-width: 800px;
+    .page-link {
+        padding: 16px 25px;
+    }
 }
 
 .widget.archives .archives-year a {

@@ -5,6 +5,6 @@ image: images/jocs.webp
 
 # Badge style
 style:
-    background: "#2a8f9d"
+    background: "#804749"
     color: "#fff"
 ---
