@@ -15,4 +15,4 @@ I heard a joke once. Man goes to doctor, says he's depressed. Life seems harsh a
 Good joke. Everybody laugh. Roll on snare drum. Curtains.
 
 
-> Watchmen a <a target="_blank" href="https://www.imdb.com/title/tt0409459/">IMDB</a>.
+> Watchmen a [IMDB](https://www.imdb.com/title/tt0409459/)
