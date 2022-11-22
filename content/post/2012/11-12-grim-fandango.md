@@ -7,10 +7,10 @@ tags: [ EN ]
 image: images/2012/grim_fandango.webp
 ---
 
-**Manny:** How's the flow tonight?
+&mdash; How's the flow tonight?
 
-**Lupe:** We're dead tonight, Manny. Everybody's back home for the Day of the Dead, I guess... except for the casino. The casino's hopping. Why is it that all the people who don't go home are the same people who just love to gamble?
+&mdash; We're dead tonight, Manny. Everybody's back home for the Day of the Dead, I guess... Except for the casino. The casino's hopping. Why is it that all the people who don't go home are the same people who just love to gamble?
 
-**Manny:** Well, I guess when you've got nothing to go home to, you've got nothing to lose.
+&mdash; Well, I guess when you've got nothing to go home to, you've got nothing to lose.
 
-**Lupe:** Hey, we should put that over the door!
+&mdash; Hey, we should put that over the door!
