@@ -16,6 +16,10 @@
     }
 }
 
+.search-form input {
+    color: var(--card-text-color-secondary);
+}
+
 .widget.archives .archives-year a span.year {
     font-weight: unset;
 }
@@ -49,6 +53,11 @@ article {
     .article-image img {
         height: 200px;
     }
+}
+
+.article-title {
+    font-size: 2.2rem;
+    line-height: 1.2em;
 }
 
 .article-page .main-article {
