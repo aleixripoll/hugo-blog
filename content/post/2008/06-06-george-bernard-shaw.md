@@ -1,6 +1,7 @@
 ---
 title: Cites
-date: '2008-06-06T09:35:00.015+02:00'
+slug: cites-bernard-shaw
+date: 2008-06-06 09:35:00+0200
 description: George Bernard Shaw
 categories: [ No-ficció ]
 tags: [ Aforismes, ES ]
