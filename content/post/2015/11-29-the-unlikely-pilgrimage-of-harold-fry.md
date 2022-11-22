@@ -4,7 +4,7 @@ description: Rachel Joyce
 date: '2015-11-29T12:23:00.000+01:00'
 categories: [ Ficció ]
 tags: [ EN ]
-image: images/2015/the_unlikely_pilgrimage_of_harold_fry.webp
+image: images/2015/unlikely_pilgrimage_of_harold_fry.webp
 rating: 4
 ---
 
