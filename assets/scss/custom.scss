@@ -112,6 +112,10 @@ article {
         }
 }
 
+mark {
+	background-color: #ffe683;
+}
+
 @media (min-width: 1400px) {
     :root {
         --article-font-size: 1.8rem;
