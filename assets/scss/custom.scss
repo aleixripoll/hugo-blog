@@ -102,6 +102,16 @@ article {
     }
 }
 
+.article-list--compact article {
+        .article-subtitle {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+         .article-preview {
+            margin-top: 0px;
+        }
+}
+
 @media (min-width: 1400px) {
     :root {
         --article-font-size: 1.8rem;
