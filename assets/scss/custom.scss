@@ -103,13 +103,15 @@ article {
 }
 
 .article-list--compact article {
-        .article-subtitle {
-            margin: 0;
-            font-size: 1.5rem;
-        }
-         .article-preview {
-            margin-top: 0px;
-        }
+    --image-size: 80px;
+
+    .article-subtitle {
+        margin: 0;
+        font-size: 1.5rem;
+    }
+     .article-preview {
+        margin-top: 0px;
+    }
 }
 
 mark {
