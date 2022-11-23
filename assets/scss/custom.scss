@@ -40,10 +40,10 @@ article {
                 pointer-events: none;
                 cursor: default;
             }
-            /*img {
-                max-height: 100vh;
-                object-fit: scale-down;
-            }*/
+            img {
+                max-height: 60vh;
+                //object-fit: scale-down;
+            }
         }
     }
     .article-content {
