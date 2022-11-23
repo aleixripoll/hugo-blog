@@ -2,7 +2,7 @@
 title: 'Apego y psicopatología: la ansiedad y su origen'
 description: Manuel Hernández Pacheco
 date: 2022-10-04 17:11:00+0200
-image: apego.webp
+image: unicornis.webp
 categories: [ No-ficció ]
 tags:
     - ES
@@ -30,6 +30,3 @@ Igual que en la personalidad del cuidador compulsivo, aquí hay mucha rabia pero
 A menudo pueden maltratar a familiares y amigos como forma de lograr sus fines sin importarle las consecuencias (tendencia a la psicopatía). Harán cualquier cosa con tal de no sentir la sensación de no ser válidos.
 
 Es otro ejemplo de cómo en psicología podemos llegar a situaciones opuestas partiendo del mismo síntoma.
-
-
-> Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
