@@ -13,7 +13,7 @@ Después de unos cuantos fracasos de pareja, preferí salir con hombres de lugar
 
 Argentina.
 
-Sentir que podía ser otra persona, que tardarían más en darse cuenta de quién era yo de verdad. Sentir que podía ser la protagonista de Lost in Translation con peluca rosa.
+Sentir que podía ser otra persona, que tardarían más en darse cuenta de quién era yo de verdad. Sentir que podía ser la protagonista de *Lost in Translation* con peluca rosa.
 
 —Sos tan europea... —decía Horacio, y no: «Eres una puta neurótica del Vallès»
 
