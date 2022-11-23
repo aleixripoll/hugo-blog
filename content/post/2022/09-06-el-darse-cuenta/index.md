@@ -2,15 +2,11 @@
 title: El darse cuenta
 description: John O. Stevens
 date: 2022-09-06 19:25:00+0200
-image: el_darse_cuenta.webp
+image: carlit.webp
 categories: [ No-ficció ]
 tags:
     - ES
     - Creixement personal
----
-
-Aunque la imaginación puede ser útil, dese cuenta que todo el tiempo empleado en pensamientos y fantasías es tiempo que transcurre lejos del real darse cuenta y/o del contacto con su vida. La mayoría de nosotros gasta gran parte de nuestras vidas esperando y planeando cosas que nunca llegarán y preocupándose de cosas que nunca sucederán. Nuestras fantasías pueden ser valiosas en la medida que estén integradas con nuestra vida, sirvan de apoyo y dejen lugar al darse cuenta y a la vivencia. Pero cuando la imaginación está separada del resto de la vida, se convierte en una vía muerta, un escape de la vida. Eso es lo que pretende una excesiva actividad de la fantasía: evitar los desafíos, los riesgos y las experiencias desagradables que son una parte necesaria de la vida. Cada vez que evitamos tales cosas, nos morimos un poco más, perdemos más contacto con nosotros mismos y con nuestro entorno. Cuando uno pierde contacto con una zona desagradable de su vida, también está perdiendo contacto con lo agradable y otro potencial del valor. Antes di el ejemplo de un joven que perdía muchísimo tiempo imaginando que pedía una cita a una joven. Sus fantasías inconducentes son los medios por los que evita un posible rechazo y desagrado. Pero mientras hace esto, pierde toda posibilidad de éxito, gozar de su compañía, su aprecio o su amor, etc. Los muros que alejan las flechas y lanzas, también alejan besos y rosas.
-
 ---
 
 Una de las maneras más comunes de no respetar a una persona es correr en su ayuda cuando se siente “mal” o incómoda. Ser “servicial” con actitudes protectoras, bromas, etc., impide a la persona vivenciar plenamente su tristeza, cólera, soledad, etc. Y sólo experimentándolas plenamente puede aceptarlas, asimilarlas en la experiencia total de su vida y desarrollarse como un ser humano más completo e integrado. Casi siempre el “ayudador” se ayuda realmente a él mismo ayudando a otros. Apresurándose con sus primeros auxilios, detiene la expresión de sentimientos que son dolorosos para él. Además se convence y convence a los otros de que es capaz de ayudar a otros y no necesita la ayuda de nadie. Casi todo “ayudador” tiene fuertes sentimientos de desamparo que se atenúan temporalmente cuando ayuda a alguien. Esto es válido para una gran cantidad de gente que ejerce profesiones de “ayuda”: maestros, sicólogos y, especialmente, trabajadores sociales. Si usted tiene este síntoma, tendrá que explorarlo y aceptar sus propios sentimientos de desamparo antes de que realmente pueda ayudar a otros.
