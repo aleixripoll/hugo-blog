@@ -1,5 +1,5 @@
 ---
-title: The Thin Red Line
+title: The thin red line
 description: James Jones, Terrence Malick
 date: '2011-11-21T13:57:00.001+01:00'
 categories: [ TV ]
