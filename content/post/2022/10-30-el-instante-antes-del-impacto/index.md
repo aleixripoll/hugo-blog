@@ -2,7 +2,7 @@
 title: El instante antes del impacto
 description: Glòria de Castro
 date: 2022-10-30 07:03:00+0200
-image: instante_impacto.webp
+image: colorblind.webp
 categories: 
     - Ficció
 tags:
