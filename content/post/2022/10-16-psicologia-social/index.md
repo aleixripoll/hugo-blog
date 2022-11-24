@@ -2,7 +2,7 @@
 title: Introducción a la Psicología Social
 description: UNED
 date: 2022-10-16 14:14:00+0200
-image: berne.webp
+image: unicornis.webp
 categories: [ No-ficció ]
 tags:
     - ES
