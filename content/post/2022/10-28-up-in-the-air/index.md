@@ -1,8 +1,9 @@
 ---
 title: Up in the air
+description: Jason Reitman
 date: 2022-10-28 21:00:00+0200
 categories: [ TV ]
-image: up_in_the_air.webp
+image: mount_tara_up.webp
 tags:
     - EN
 ---
