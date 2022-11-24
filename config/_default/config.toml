@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://aleixripoll.github.io/limbo/"
 languageCode = "en-us"
-paginate = 6
+paginate = 8
 title = "limbo"
 
 # Theme i18n support
