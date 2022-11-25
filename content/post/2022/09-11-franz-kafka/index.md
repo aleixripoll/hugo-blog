@@ -36,3 +36,8 @@ tags:
 > Me avergoncé de mí mismo cuando me di cuenta de que la vida era una fiesta de disfraces y yo asistía con mi rostro real.
 
 > Soy una jaula en busca de un pájaro.
+
+
+### Milena Jesenská
+
+"Pocos lo conocieron aquí, porque era un recluso, un hombre sabio y temeroso de la vida. Era tímido, asustadizo, gentil y bueno, pero los libros que escribió fueron crueles y dolorosos. Vio el mundo lleno de demonios invisibles luchando y destruyendo a las personas indefensas. Era demasiado clarividente, demasiado sabio para vivir y demasiado débil para luchar: pero esa era la debilidad de las personas nobles y bellas que no saben luchar contra el miedo, contra los malentendidos, contra el desamor y las falsedades espirituales, que saben desde el principio que son impotentes, se someten y así avergüenzan al vencedor. Era un hombre y un artista con una conciencia tan escrupulosa que se mantenía alerta aún donde los demás, los sordos, ya se sentían seguros."
