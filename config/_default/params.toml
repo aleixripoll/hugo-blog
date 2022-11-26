@@ -92,6 +92,9 @@ enabled = false
 [imageProcessing.content]
 enabled = false
 
+[imageProcessing.list]
+enabled = true
+
 ## Comments
 [comments]
 enabled = true
