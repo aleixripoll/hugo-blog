@@ -2,7 +2,7 @@
 title: Dejar ir
 description: David R. Hawkins
 date: 2022-06-12 17:37:00+0200
-image: mount_tara_up.webp
+image: fuji.webp
 categories: [ No-ficció ]
 tags:
     - ES

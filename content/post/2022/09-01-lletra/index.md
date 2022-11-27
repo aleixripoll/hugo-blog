@@ -2,7 +2,7 @@
 title: Lletra
 description: Miquel Martí i Pol
 date: 2022-09-01 07:35:00+0200
-image: fuji.webp
+image: miquel_marti_pol.webp
 categories: [ Ficció ]
 tags:
     - CAT
