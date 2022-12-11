@@ -4,7 +4,7 @@ description: Yuval Noah Harari
 date: '2021-10-07T20:23:00.000+02:00'
 categories: [ No-ficció ]
 tags: [ EN ]
-image: 21_lessons_21st_century.webp
+image: 21_lessons.webp
 rating: 4
 ---
 
