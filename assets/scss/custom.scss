@@ -31,14 +31,14 @@
 }
 
 .article-list article {
-
     transition: transform 0.2s ease;
-    .article-image img {
-        height: 200px;
-    }
 
     &:hover {
-        transform: scale(1.03);
+        transform: scale(1.02);
+    }
+
+    .article-image img {
+        height: 200px;
     }
 }
 
