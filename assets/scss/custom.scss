@@ -8,7 +8,7 @@
 
     &[data-scheme="light"] {
         --accent-color: rgb(168, 72, 72);
-        --card-text-color-secondary: rgb(195, 72, 72);
+        --card-text-color-secondary: rgb(168, 72, 72);
         #dark-mode-toggle {
             color: var(--accent-color);
             font-weight: 700;
@@ -30,9 +30,15 @@
     }
 }
 
-article {
+.article-list article {
+
+    transition: transform 0.2s ease;
     .article-image img {
         height: 200px;
+    }
+
+    &:hover {
+        transform: scale(1.03);
     }
 }
 
