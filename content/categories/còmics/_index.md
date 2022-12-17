@@ -1,7 +1,7 @@
 ---
 title: Còmics
-description: Tires còmiques
-image: images/comics.webp
+description:
+image:
 
 # Badge style
 style:

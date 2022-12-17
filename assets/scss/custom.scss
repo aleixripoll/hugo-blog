@@ -5,6 +5,8 @@
     --article-line-height: 1.6;
     --card-background: #fdfdfd;
     --section-separation: 30px;
+    --menu-icon-separation: 20px;
+    --small-card-padding: 15px 25px;
 
     &[data-scheme="light"] {
         --accent-color: rgb(168, 72, 72);
@@ -132,6 +134,39 @@
 
 mark {
     background-color: #ffe683;
+}
+
+.widget.archives {
+    width: 300px;
+}
+
+.search-form.widget {
+	width: 300px;
+}
+
+.widget-icon {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.widget-title.section-title {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3.section-title, .archives-date.section-title {
+	font-size: 2rem;
+}
+
+.section-card .section-term {
+	color: var(--card-text-color-secondary);
+}
+
+.section-card {
+	background-color: unset;
+	box-shadow: unset;
 }
 
 @media (min-width: 1400px) {

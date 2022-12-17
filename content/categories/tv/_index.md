@@ -1,7 +1,7 @@
 ---
 title: TV
-description: Pel·lícules i sèries
-image: images/tv.webp
+description:
+image:
 
 # Badge style
 style:

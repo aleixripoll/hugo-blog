@@ -1,7 +1,7 @@
 ---
 title: Ficció
-description: Literatura, tot el que no ha passat va aquí.
-image: images/llibres_ficcio.webp
+description:
+image:
 
 # Badge style
 style:

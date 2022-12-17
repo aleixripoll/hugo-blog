@@ -1,7 +1,7 @@
 ---
 title: No-ficció
-description: Literatura, tot el que ha passat va aquí.
-image: images/llibres_noficcio.webp
+description:
+image:
 
 # Badge style
 style:
