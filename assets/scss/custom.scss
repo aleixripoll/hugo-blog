@@ -21,6 +21,8 @@
         --accent-color: #8fb8c5;
         --card-text-color-secondary: #8fb8c5;
     }
+
+    letter-spacing: 0.2px;
 }
 
 .search-form {
@@ -141,7 +143,7 @@ mark {
 }
 
 .search-form.widget {
-	width: 300px;
+    width: 300px;
 }
 
 .widget-icon {
@@ -156,17 +158,28 @@ mark {
     margin-bottom: 0;
 }
 
-h3.section-title, .archives-date.section-title {
-	font-size: 2rem;
+h3.section-title,
+.archives-date.section-title {
+    font-size: 2rem;
 }
 
 .section-card .section-term {
-	color: var(--card-text-color-secondary);
+    color: var(--card-text-color-secondary);
 }
 
 .section-card {
-	background-color: unset;
-	box-shadow: unset;
+    background-color: unset;
+    box-shadow: unset;
+}
+
+.sidebar header .site-name {
+    font-weight: 100;
+    letter-spacing: 1px;
+    font-size: 2.5rem;
+}
+
+.menu li span {
+	font-weight: 400;
 }
 
 @media (min-width: 1400px) {
