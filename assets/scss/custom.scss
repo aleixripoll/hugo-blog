@@ -1,5 +1,5 @@
 :root {
-    --body-text-color: #777;
+    --body-text-color: #555;
     --card-text-color-main: #333;
     --card-text-color-tertiary: #999;
     --article-line-height: 1.6;
@@ -57,7 +57,7 @@
 
 .article-page .main-article {
     .article-header {
-        // remove links to post inside post
+        // remove links to self inside post
         .article-image,
         .article-title {
             a {
@@ -101,6 +101,10 @@
 
 .menu {
     font-size: 1.5rem;
+
+    li span {
+        font-weight: 400;
+    }
 }
 
 .pagination {
@@ -113,13 +117,6 @@
 
 .sidebar header .site-name {
     font-size: 2rem;
-}
-
-.widget.archives .archives-year a {
-    padding: 15px 25px;
-    span.year {
-        font-weight: unset;
-    }
 }
 
 .article-list--compact article {
@@ -140,6 +137,13 @@ mark {
 
 .widget.archives {
     width: 300px;
+
+    .archives-year a {
+        padding: 15px 25px;
+        span.year {
+            font-weight: unset;
+        }
+    }
 }
 
 .search-form.widget {
@@ -163,23 +167,19 @@ h3.section-title,
     font-size: 2rem;
 }
 
-.section-card .section-term {
-    color: var(--card-text-color-secondary);
-}
-
 .section-card {
     background-color: unset;
     box-shadow: unset;
+
+    .section-term {
+        color: var(--card-text-color-secondary);
+    }
 }
 
 .sidebar header .site-name {
     font-weight: 100;
     letter-spacing: 1px;
     font-size: 2.5rem;
-}
-
-.menu li span {
-	font-weight: 400;
 }
 
 @media (min-width: 1400px) {
