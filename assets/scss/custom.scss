@@ -27,8 +27,16 @@
     letter-spacing: 0.1px;
 }
 
-footer.site-footer .copyright {
-    font-weight: 400;
+footer.site-footer {
+    &::before {
+        display: inline-block;
+        vertical-align: middle;
+        height: 2px;
+        margin-bottom: 15px;
+    }
+    .copyright {
+        font-weight: 400;
+    }
 }
 
 .search-form {
