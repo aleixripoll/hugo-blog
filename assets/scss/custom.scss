@@ -1,55 +1,54 @@
 :root {
     --body-text-color: #555;
+    --accent-color: rgb(161, 35, 56);
     --card-text-color-main: #333;
-    --card-text-color-tertiary: #777;
+    --card-text-color-secondary: rgb(180, 35, 56);
+    --card-text-color-tertiary: #666;
     --article-line-height: 1.6;
     --card-background: #fafafa;
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
 
-    &[data-scheme="light"] {
-        --accent-color: rgb(161, 35, 56);
-        --card-text-color-secondary: rgb(180, 35, 56);
+    /*&[data-scheme="light"] {
         #dark-mode-toggle {
             color: var(--accent-color);
             font-weight: 700;
         }
-    }
+    }*/
 
     &[data-scheme="dark"] {
         --accent-color: #7fa4af;
+        --card-text-color-main: #ddd;
         --card-text-color-secondary: #7fa4af;
         --card-text-color-tertiary: #aaa;
-        --card-text-color-main: #ddd;
     }
 
     letter-spacing: 0.1px;
 }
 
 footer.site-footer .copyright {
-	font-weight: 400;
+    font-weight: 400;
 }
 
-/*.search-form {
+.search-form {
     &.widget label {
         color: var(--body-text-color);
     }
-    input {
+    /*input {
         color: var(--card-text-color-secondary);
-    }
-}*/
+    }*/
+}
 
 .article-list article {
-
     .article-image {
         overflow: hidden;
     }
-
-    &:hover .article-image img {
-        transform: scale(1.1);
+    @media screen {
+        &:hover .article-image img {
+            transform: scale(1.1);
+        }
     }
-
     .article-image img {
         height: 200px;
         transition: transform 0.2s ease;
@@ -122,6 +121,7 @@ footer.site-footer .copyright {
     max-width: 800px;
     .page-link {
         padding: 16px 20px;
+        color: var(--card-text-color-tertiary);
     }
 }
 
