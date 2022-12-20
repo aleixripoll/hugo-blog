@@ -17,13 +17,13 @@
 
     &[data-scheme="dark"] {
         --accent-color: #7fa4af;
-        --card-text-color-main: #ddd;
+        --card-text-color-main: #e3e3e3;
         --card-text-color-secondary: #7fa4af;
         --card-text-color-tertiary: #aaa;
         --card-widget-background: #424242;
     }
 
-    letter-spacing: 0.1px;
+    letter-spacing: 0.2px;
 }
 
 .article-category a {
@@ -226,7 +226,7 @@ h3.section-title,
 
 @media (min-width: 1400px) {
     :root {
-        --article-font-size: 1.8rem;
+        --article-font-size: 1.9rem;
     }
 
     .article-list {
