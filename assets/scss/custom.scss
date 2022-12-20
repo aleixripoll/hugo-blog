@@ -9,22 +9,27 @@
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
+    --card-padding: 25px;
+    --card-widget-color: #eee;
 
-    /*&[data-scheme="light"] {
-        #dark-mode-toggle {
-            color: var(--accent-color);
-            font-weight: 700;
-        }
-    }*/
+    &[data-scheme="light"] {
+        --card-widget-background: #555;
+    }
 
     &[data-scheme="dark"] {
         --accent-color: #7fa4af;
         --card-text-color-main: #ddd;
         --card-text-color-secondary: #7fa4af;
         --card-text-color-tertiary: #aaa;
+        --card-widget-background: #424242;
     }
 
     letter-spacing: 0.1px;
+}
+
+.article-category a {
+    background: #333 !important;
+    color: #eee !important;
 }
 
 footer.site-footer {
@@ -109,6 +114,12 @@ footer.site-footer {
     }
 }
 
+.tagCloud .tagCloud-tags a {
+    background: var(--card-widget-background);
+    color: var(--card-widget-color);
+    padding: 8px 15px;
+}
+
 .icon-tabler-brand-instagram > path {
     fill: var(--body-text-color);
     stroke-width: 6px;
@@ -181,7 +192,7 @@ mark {
 .widget-title.section-title {
     margin-top: 0;
     margin-bottom: 0;
-	font-size: 1.5rem;
+    font-size: 1.5rem;
 }
 
 h3.section-title,
