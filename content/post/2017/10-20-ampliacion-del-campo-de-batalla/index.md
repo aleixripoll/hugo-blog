@@ -4,7 +4,7 @@ description: Michel Houellebecq
 date: '2017-10-20T16:48:00.003+02:00'
 categories: [ Ficció ]
 tags: [ ES ]
-image: ampliacion_campo_batalla.webp
+image: amp_campo_batalla.webp
 rating: 4
 ---
 
