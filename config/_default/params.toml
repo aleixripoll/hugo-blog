@@ -37,7 +37,7 @@ type = "search"
 type = "archives"
 
 [widgets.homepage.params]
-limit = 7
+limit = 18
 
 [[widgets.homepage]]
 type = "categories"
@@ -58,7 +58,7 @@ type = "search"
 type = "archives"
 
 [widgets.page.params]
-limit = 5
+limit = 18
 
 [[widgets.page]]
 #type = "toc"

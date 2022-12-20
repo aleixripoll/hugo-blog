@@ -9,7 +9,6 @@
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
-    //--card-padding: 25px;
     --card-widget-color: #eee;
 
     &[data-scheme="light"] {
@@ -28,8 +27,8 @@
 }
 
 .article-category a {
-    background: #333 !important;
-    color: #eee !important;
+    background: #555 !important;
+    color: #fff !important;
 }
 
 footer.site-footer {
@@ -41,18 +40,6 @@ footer.site-footer {
     }
     .copyright {
         font-weight: 400;
-    }
-}
-
-.search-form {
-    &.widget label {
-        color: var(--body-text-color);
-    }
-    /*input {
-        color: var(--card-text-color-secondary);
-    }*/
-    button svg {
-        color: var(--card-text-color-tertiary);
     }
 }
 
@@ -115,8 +102,8 @@ footer.site-footer {
 }
 
 .tagCloud .tagCloud-tags a {
-    background: var(--card-widget-background);
-    color: var(--card-widget-color);
+    /*background: var(--card-widget-background);
+    color: var(--card-widget-color);*/
     padding: 8px 15px;
 }
 
@@ -168,18 +155,40 @@ mark {
 }
 
 .widget.archives {
-    width: 300px;
-
     .archives-year a {
-        padding: 15px 25px;
-        span.year {
-            font-weight: unset;
+        padding: 10px 15px;
+        width: 100px;
+        text-align: center;
+        span {
+            &.year {
+                font-weight: unset;
+                //color: var(--card-widget-color);
+            }
+            /*&.count {
+                color: #aaa;
+            }*/
         }
+    }
+
+    .widget-archive--list {
+        background: var(--card-widget-background);
     }
 }
 
-.search-form.widget {
-    width: 300px;
+.search-form {
+    /*&.widget {
+        input {
+            background: var(--card-widget-background);
+            color: var(--card-widget-color);
+        }
+        label {
+            color: var(--card-widget-color);
+        }
+    }*/
+    button svg {
+        //color: var(--card-widget-color);
+        color: var(--card-text-color-tertiary);
+    }
 }
 
 .widget-icon {

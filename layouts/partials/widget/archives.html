@@ -3,7 +3,7 @@
 {{- $limit := default 5 .Params.limit -}}
 {{- if $query -}}
     {{- $archivesPage := index $query 0 -}}
-    <section class="widget archives">
+    <section class="widget archives tagCloud">
         <div class="widget-icon">
             {{ partial "helper/icon" "infinity" }}
             <h2 class="widget-title section-title">{{ T "widget.archives.title" }}</h2>
@@ -14,19 +14,12 @@
         {{ $filtered := ($pages | intersect $notHidden) }}
         {{ $archives := $filtered.GroupByDate "2006" }}
         
-        <div class="widget-archive--list">
+        <div class="archives-year tagCloud-tags">
             {{ range $index, $item := first (add $limit 1) ($archives) }}
                 {{- $id := lower (replace $item.Key " " "-") -}}
-                <div class="archives-year">
                     <a href="{{ $archivesPage.RelPermalink }}#{{ $id }}">
-                        {{ if eq $index $limit }}
-                            <span class="year">{{ T "widget.archives.more" }}</span>
-                        {{ else }}
-                            <span class="year">{{ .Key }}</span>
-                            <span class="count">{{ len $item.Pages }}</span>
-                        {{ end }}
+                        <span class="year">{{ .Key }} <span class="count">({{ len $item.Pages }})</span>
                     </a> 
-                </div>
             {{ end }}
         </div>
     </section>
