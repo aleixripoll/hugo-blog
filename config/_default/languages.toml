@@ -3,5 +3,11 @@
 #[en]
 #languageName = "English"
 #languagedirection = "ltr"
-#title = "Example Site"
+#title = "limbo"
 #weight = 1
+#
+#[ca]
+#languageName = "Català"
+#languagedirection = "ltr"
+#title = "limbo"
+#weight = 2
