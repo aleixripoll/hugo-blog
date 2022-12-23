@@ -49,12 +49,15 @@ footer.site-footer {
     }
     @media screen {
         &:hover .article-image img {
-            transform: scale(1.04);
+            //transform: scale(1.02);
+            filter: grayscale(0%) brightness(90%);
         }
     }
     .article-image img {
         height: 200px;
-        transition: transform 0.2s ease;
+        //filter: grayscale(100%);
+        filter: grayscale(50%) brightness(70%);
+        transition: all 0.3s ease-in;
     }
 }
 
