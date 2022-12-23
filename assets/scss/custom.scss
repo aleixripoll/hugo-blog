@@ -47,15 +47,8 @@ footer.site-footer {
     .article-image {
         overflow: hidden;
     }
-    @media screen {
-        &:hover .article-image img {
-            filter: grayscale(0%) brightness(95%);
-        }
-    }
     .article-image img {
         height: 200px;
-        filter: grayscale(50%) brightness(70%);
-        transition: filter 0.3s ease-in;
     }
 }
 
@@ -233,5 +226,18 @@ h3.section-title,
     .article-list {
         display: grid;
         grid-template: 1fr / 1fr 1fr;
+        
+        article {
+            .article-image {
+                overflow: hidden;
+            }
+            &:hover .article-image img {
+                filter: grayscale(0%) brightness(95%);
+            }
+            .article-image img {
+                filter: grayscale(50%) brightness(70%);
+                transition: filter 0.3s ease-in;
+            }
+        }
     }
 }
