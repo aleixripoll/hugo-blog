@@ -29,7 +29,7 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ff9100, #6b69d6;
 }
 
 .article-list article .article-category a {
-	background: var(--accent-color) !important;
+    background: var(--accent-color) !important;
     color: var(--accent-color-text) !important;
 }
 
@@ -153,34 +153,14 @@ mark {
         padding: 10px 15px;
         width: 100px;
         text-align: center;
-        span {
-            &.year {
-                font-weight: unset;
-                //color: var(--card-widget-color);
-            }
-            /*&.count {
-                color: #aaa;
-            }*/
+        span.year {
+            font-weight: unset;
         }
-    }
-
-    .widget-archive--list {
-        background: var(--card-widget-background);
     }
 }
 
 .search-form {
-    /*&.widget {
-        input {
-            background: var(--card-widget-background);
-            color: var(--card-widget-color);
-        }
-        label {
-            color: var(--card-widget-color);
-        }
-    }*/
     button svg {
-        //color: var(--card-widget-color);
         color: var(--card-text-color-tertiary);
     }
 }
@@ -226,7 +206,7 @@ h3.section-title,
     .article-list {
         display: grid;
         grid-template: 1fr / 1fr 1fr;
-        
+
         article {
             .article-image {
                 overflow: hidden;
@@ -239,5 +219,24 @@ h3.section-title,
                 transition: filter 0.3s ease-in;
             }
         }
+    }
+
+    .widget a {
+        color: var(--accent-color-text);
+        background-color: var(--accent-color);
+        transition: background-color 0.5s ease;
+    }
+    .widget a:hover {
+        color: var(--accent-color-text);
+        background-color: var(--accent-color-darker);
+    }
+    .widget.archives .archives-year a:hover span.year {
+        color: var(--accent-color-text);
+    }
+    .widget.archives .archives-year a:hover span.count {
+        color: var(--accent-color-text);
+    }
+    .article-list article .article-category a:hover {
+        background-color: var(--accent-color-darker) !important;
     }
 }
