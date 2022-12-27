@@ -1,8 +1,10 @@
+$defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ff9100, #6b69d6;
+
 :root {
     --body-text-color: #555;
-    --accent-color: rgb(161, 35, 56);
+    --accent-color: rgb(194, 71, 92);
     --card-text-color-main: #333;
-    --card-text-color-secondary: rgb(180, 35, 56);
+    --card-text-color-secondary: rgb(194, 71, 92);
     --card-text-color-tertiary: #666;
     --article-line-height: 1.6;
     --card-background: #f8f8f8;
@@ -16,9 +18,9 @@
     }
 
     &[data-scheme="dark"] {
-        --accent-color: #7fa4af;
+        --accent-color: #7f9daf;
         --card-text-color-main: #e3e3e3;
-        --card-text-color-secondary: #7fa4af;
+        --card-text-color-secondary: #7f9daf;
         --card-text-color-tertiary: #aaa;
         --card-widget-background: #424242;
     }
@@ -26,9 +28,9 @@
     letter-spacing: 0.2px;
 }
 
-.article-category a {
-    background: #555 !important;
-    color: #fff !important;
+.article-list article .article-category a {
+	background: var(--accent-color) !important;
+    color: var(--accent-color-text) !important;
 }
 
 footer.site-footer {
@@ -96,8 +98,6 @@ footer.site-footer {
 }
 
 .tagCloud .tagCloud-tags a {
-    /*background: var(--card-widget-background);
-    color: var(--card-widget-color);*/
     padding: 8px 15px;
 }
 
