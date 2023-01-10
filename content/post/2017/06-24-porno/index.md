@@ -4,7 +4,7 @@ description: Irvine Welsh
 date: '2017-06-24T11:22:00.000+02:00'
 categories: [ Ficció ]
 tags: [ ES ]
-image: porno.webp
+image: irvine_welsh.webp
 rating: 4.5
 ---
 
