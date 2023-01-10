@@ -1,20 +1,24 @@
 $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ff9100, #6b69d6;
 
 :root {
-    --body-text-color: #555;
-    --accent-color: rgb(194, 71, 92);
-    --card-text-color-main: #333;
-    --card-text-color-secondary: rgb(194, 71, 92);
-    --card-text-color-tertiary: #666;
     --article-line-height: 1.6;
-    --card-background: #f8f8f8;
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
-    --card-widget-color: #eee;
+    letter-spacing: 0.2px;
 
     &[data-scheme="light"] {
+        --body-background: #bbb;
+        --body-text-color: #333;
+        --accent-color: rgb(194, 71, 92);
+        --card-text-color-main: #333;
+        --card-text-color-secondary: rgb(194, 71, 92);
+        --card-text-color-tertiary: #444;
+        --card-background: #ccc;
+        --card-background-selected: #ddd;
+        --card-widget-color: #eee;
         --card-widget-background: #555;
+        --blockquote-background-color: #ddd;
     }
 
     &[data-scheme="dark"] {
@@ -24,8 +28,6 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ff9100, #6b69d6;
         --card-text-color-tertiary: #aaa;
         --card-widget-background: #424242;
     }
-
-    letter-spacing: 0.2px;
 }
 
 .article-list article .article-category a {
@@ -58,12 +60,6 @@ footer.site-footer {
     gap: 5px;
 }
 
-.article-page {
-    .article-title {
-        font-size: 2.5rem;
-    }
-}
-
 .article-title {
     font-size: 2.2rem;
     line-height: 1.2em;
@@ -73,15 +69,18 @@ footer.site-footer {
     padding: 20px 25px 25px 25px;
 }
 
+// full article page
 .article-page .main-article {
     .article-header {
-        // remove links to self inside post
-        .article-image,
         .article-title {
+            font-size: 2.5rem;
+            // remove links to self inside post
             a {
                 pointer-events: none;
                 cursor: default;
             }
+        }
+        .article-image {
             img {
                 max-height: 55vh;
                 object-fit: cover;
@@ -93,7 +92,7 @@ footer.site-footer {
         color: var(--card-text-color-main);
 
         blockquote {
-            padding: 5px calc(var(--card-padding) - var(--blockquote-border-size));
+            padding: 1px calc(var(--card-padding) - var(--blockquote-border-size));
         }
 
         > p:not(.no-text) {
@@ -138,6 +137,10 @@ footer.site-footer {
     }
 }
 
+h2 {
+    font-size: 1.2em;
+}
+
 .article-category a,
 .article-tags a {
     padding: 6px 12px;
@@ -152,9 +155,16 @@ footer.site-footer {
 
     .article-subtitle {
         margin: 0;
+        font-size: 1.6rem;
     }
     .article-preview {
         margin-top: 0px;
+    }
+    .article-details {
+        gap: 5px;
+    }
+    .article-image img {
+        border-radius: var(--card-border-radius);
     }
 }
 
@@ -177,6 +187,10 @@ mark {
     button svg {
         color: var(--card-text-color-tertiary);
     }
+}
+
+.search-result .article-image img {
+    border-radius: var(--card-border-radius);
 }
 
 .widget-icon {
@@ -211,6 +225,8 @@ h3.section-title,
     letter-spacing: 1px;
     font-size: 2.5rem;
 }
+
+// ---------- @media ----------
 
 @media (min-width: 1400px) {
     :root {
