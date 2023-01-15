@@ -8,17 +8,17 @@ $defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ff9100, #6b69d6;
     letter-spacing: 0.2px;
 
     &[data-scheme="light"] {
-        --body-background: #bbb;
+        --body-background: #c3c3c3;
         --body-text-color: #333;
         --accent-color: rgb(194, 71, 92);
         --card-text-color-main: #333;
         --card-text-color-secondary: rgb(194, 71, 92);
         --card-text-color-tertiary: #444;
-        --card-background: #ccc;
-        --card-background-selected: #ddd;
+        --card-background: #ddd;
+        --card-background-selected: #e5e5e5;
         --card-widget-color: #eee;
         --card-widget-background: #555;
-        --blockquote-background-color: #ddd;
+        --blockquote-background-color: #e5e5e5;
     }
 
     &[data-scheme="dark"] {
