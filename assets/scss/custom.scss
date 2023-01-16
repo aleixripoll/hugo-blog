@@ -3,7 +3,8 @@
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.1px;
+    font-kerning: normal;
 
     &[data-scheme="light"] {
         --body-background: #c3c3c3;
@@ -96,7 +97,7 @@ footer.site-footer {
         }
 
         > p:not(.no-text) {
-            margin: 0.8em auto;
+            margin: 0.7em auto;
             text-indent: 20px;
             max-width: 680px;
         }

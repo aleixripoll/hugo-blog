@@ -10,4 +10,4 @@ image: quino.webp
 ![Quino - Amor de mi vida](quino_amor_de_mi_vida.webp)
 
 
-Pàgina oficial de Quino [aquí]("https://www.quino.com.ar/").
+Pàgina oficial de Quino [aquí](https:/www.quino.com.ar/).
