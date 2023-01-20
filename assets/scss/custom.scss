@@ -3,7 +3,7 @@
     --section-separation: 30px;
     --menu-icon-separation: 20px;
     --small-card-padding: 15px 25px;
-    letter-spacing: 0.1px;
+    //letter-spacing: 0.1px;
     font-kerning: normal;
 
     &[data-scheme="light"] {
@@ -231,7 +231,7 @@ h3.section-title,
 
 @media (min-width: 1400px) {
     :root {
-        --article-font-size: 1.8rem;
+        --article-font-size: 1.9rem;
         --article-line-height: 1.7;
     }
 
