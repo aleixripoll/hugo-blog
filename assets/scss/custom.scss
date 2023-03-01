@@ -6,7 +6,8 @@
     font-kerning: normal;
     --card-border-radius: 10px;
     --tag-border-radius: 4px;
-
+    //--main-top-padding: 20px;
+    
     &[data-scheme="light"] {
         --body-background: #c3c3c3;
         --body-text-color: #333;
@@ -258,6 +259,10 @@ h3.section-title,
     font-weight: 400;
     letter-spacing: 1px;
     font-size: 2.5rem;
+}
+
+.sidebar.sticky {
+	padding-left: 10px;
 }
 
 // ---------- @media ----------
