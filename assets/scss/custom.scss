@@ -36,6 +36,13 @@
 
 body {
 	margin: 20px 0 0 0;
+    // disqus
+    color: var(--card-text-color-main);
+}
+
+// disqus
+.embed-refresh-v2 .nav-primary--refresh .comment-count {
+	color: var(--card-text-color-main);
 }
 
 .article-list article {
