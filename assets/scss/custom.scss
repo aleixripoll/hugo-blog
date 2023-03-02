@@ -19,7 +19,7 @@
         --card-background-selected: rgba(252, 252, 252, 0.3);
         --card-widget-color: #eee;
         --card-widget-background: #555;
-        --blockquote-background-color: #e5e5e5;
+        --blockquote-background-color: var(--card-background-selected)
     }
 
     &[data-scheme="dark"] {
@@ -31,6 +31,7 @@
         --card-text-color-secondary: #7496a5;
         --card-text-color-tertiary: #aaa;
         --card-widget-background: #424242;
+        --blockquote-background-color: var(--card-background-selected)
     }
 }
 
