@@ -27,17 +27,17 @@ La dona i el fill de l’espanyol treuen el cap des de la terrassa i observen co
 
 El xarnego es gira cap a en Junior. La boca entreoberta, els ulls caiguts de pura displicència animal.
 
-—Que no te entiendo, que a mí me hables en castellano.
+*—Que no te entiendo, que a mí me hables en castellano.*
 
 En Junior fa un esforç titànic. Recorda les classes de control de la ira. Recorda la seva professora, l’encisadora senyoreta Puig.
 
 —Dic que si pots treure el cotxe d’aquí, que no puc aparcar-hi el meu.
 
-—El coche se queda ahí.
+*—El coche se queda ahí.*
 
 —No sabia que el carrer fos teu —deixa anar tranquil·lament en Junior.
 
-—Pues sí, esta calle es mía. ¿Qué pasa?
+*—Pues sí, esta calle es mía. ¿Qué pasa?*
 
 —No passa res.
 
