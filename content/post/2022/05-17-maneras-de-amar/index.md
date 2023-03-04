@@ -2,7 +2,7 @@
 title: Maneras de amar
 description: Amir Levine, Rachel Heller
 date: 2022-05-17 17:54:00+0200
-image: fuji.webp
+image: maneras_de_amar.webp
 categories: [ No-ficció ]
 tags:
     - ES

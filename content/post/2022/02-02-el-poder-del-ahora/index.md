@@ -2,7 +2,7 @@
 title: El poder del ahora
 description: Eckhart Tolle
 date: 2022-02-02 20:25:16+0200
-image: eckhart_tolle.webp
+image: poder_ahora.webp
 categories:
     - No-ficció
 tags:
