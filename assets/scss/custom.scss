@@ -6,7 +6,8 @@
     font-kerning: normal;
     --card-border-radius: 5px;
     --tag-border-radius: 4px;
-    
+    --background-color-darker: #2c3e50;
+
     &[data-scheme="light"] {
         --body-background: #ccc;
         --body-text-color: #333;
@@ -58,8 +59,8 @@ body {
 }
 
 .article-list article .article-category a {
-    background: rgba(194, 71, 92, 0.9) !important;
-    //color: var(--accent-color-text) !important;
+    //background: rgba(194, 71, 92, 0.9) !important;
+    color: var(--accent-color-text) !important;
     border: 1px solid var(--card-background);
 }
 
@@ -111,17 +112,21 @@ footer.site-footer {
 .article-page .main-article {
     .article-header {
         .article-title {
-            font-size: 2.5rem;
+            font-size: 2.6rem;
             // remove links to self inside post
             a {
                 pointer-events: none;
                 cursor: default;
             }
         }
+        .article-subtitle {
+            font-size: 2.2rem;
+        }
         .article-image {
             img {
                 max-height: 55vh;
-                object-fit: contain;
+                object-fit: cover;
+                filter: grayscale(40%) brightness(90%);
             }
         }
     }
@@ -167,10 +172,6 @@ footer.site-footer {
     li span {
         font-weight: 400;
     }
-}
-
-.article-time time {
-	font-size: 1.3rem;
 }
 
 .pagination {
@@ -341,4 +342,3 @@ h2.archives-date.section-title {
         background-color: var(--accent-color-darker) !important;
     }
 }
-

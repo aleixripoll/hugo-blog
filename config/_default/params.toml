@@ -25,7 +25,7 @@ src = "images/avatar.webp"
 
 [article]
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = false
