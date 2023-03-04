@@ -4,7 +4,7 @@ description:
 image:
 
 # Badge style
-#style:
-#    background: "#333"
+style:
+    background: "#0177b8"
 #    color: "#eee"
 ---

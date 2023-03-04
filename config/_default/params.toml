@@ -4,6 +4,8 @@ mainSections = ["post"]
 rssFullContent = true
 favicon = "images/favicon.ico"
 
+custom_js = ["js/custom.js"]
+
 [footer]
 since = 2008
 customText = ""
@@ -23,7 +25,7 @@ src = "images/avatar.webp"
 
 [article]
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = false
