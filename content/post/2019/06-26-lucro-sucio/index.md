@@ -2,7 +2,7 @@
 title: Lucro sucio
 description: Joseph Heath
 date: '2019-06-26T14:16:00.002+02:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: lucro_sucio.webp
 rating: 3

@@ -2,7 +2,7 @@
 title: La senda del perdedor
 description: Charles Bukowski
 date: '2019-09-06T09:01:00.003+02:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: senda_perdedor.webp
 rating: 3.5

@@ -1,10 +1,10 @@
 ---
-title: No-ficció
+title: Llibres
 description:
 image:
 
 # Badge style
 style:
-    background: "#0177b8"
+    background: "#C2475C"
     color: "#fff"
 ---

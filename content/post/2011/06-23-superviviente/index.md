@@ -2,7 +2,7 @@
 title: Superviviente
 description: Chuck Palahniuk
 date: '2011-06-23T17:41:00.000+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: palahniuk.webp
 rating: 3.5

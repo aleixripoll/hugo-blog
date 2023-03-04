@@ -2,7 +2,7 @@
 title: El principito 
 date: '2008-05-31T12:11:00.015+02:00'
 description: Antoine de Saint-Exupéry
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: el_principito.webp
 rating: 4.5

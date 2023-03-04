@@ -2,7 +2,7 @@
 title: 'The circus'
 description: Bob Adventures
 date: '2015-10-07T12:11:00.000+02:00'
-categories: [ Còmics ]
+categories: [ Dibuixos ]
 tags: [ EN ]
 image: bob7_circus_hero.webp
 ---

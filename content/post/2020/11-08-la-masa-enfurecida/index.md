@@ -2,7 +2,7 @@
 title: 'La masa enfurecida'
 description: Douglas Murray
 date: '2020-11-08T14:00:00.000+01:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: la_masa_enfurecida.webp
 rating: 3.5

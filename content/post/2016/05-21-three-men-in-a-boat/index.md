@@ -2,7 +2,7 @@
 title: Three men in a boat
 description: Jerome K. Jerome
 date: '2016-05-21T19:18:00.002+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ EN ]
 image: three_men_boat.webp
 rating: 3.5

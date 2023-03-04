@@ -2,7 +2,7 @@
 title: Ampliación del campo de batalla
 description: Michel Houellebecq
 date: '2017-10-20T16:48:00.003+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: amp_campo_batalla.webp
 rating: 4

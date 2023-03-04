@@ -3,7 +3,7 @@ title: Choke
 description: Chuck Palahniuk
 date: '2021-01-20T09:12:00.000+02:00'
 image: choke.webp
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ EN ]
 rating: 2.5
 ---

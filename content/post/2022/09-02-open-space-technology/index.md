@@ -3,7 +3,7 @@ title: Open Space Technology
 description: Harrison Owen
 date: 2022-09-02 07:20:00+0200
 image: open_space_technology.webp
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags:
     - EN
 ---

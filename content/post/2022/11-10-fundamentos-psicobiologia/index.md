@@ -3,8 +3,7 @@ title: Fundamentos de Psicobiología
 description: UNED
 date: 2022-11-10 13:38:00+0200
 image: fundamentos_psicobiologia.webp
-categories: 
-    - No-ficció
+categories: [ Llibres, Dibuixos ]
 tags:
     - ES
     - Psicologia

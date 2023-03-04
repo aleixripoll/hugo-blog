@@ -2,7 +2,7 @@
 title: 'Dune'
 description: Frank Herbert
 date: '2021-12-16T15:21:16.000+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: dune_paul.webp
 ---

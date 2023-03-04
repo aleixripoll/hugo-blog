@@ -2,7 +2,7 @@
 title: Syrup
 description: Max Barry
 date: '2011-11-17T23:49:00.001+01:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ EN ]
 image: syrup.webp
 rating: 4.5

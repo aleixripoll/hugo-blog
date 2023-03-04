@@ -3,7 +3,7 @@ title: Cites
 slug: cites-oscar-wilde
 date: 2008-06-05 10:47:00+0200
 description: Oscar Wilde
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ Aforismes, ES ]
 image: oscar_wilde.webp
 ---

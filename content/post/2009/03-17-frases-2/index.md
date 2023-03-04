@@ -1,7 +1,7 @@
 ---
 title: Recull de frases 2
 date: '2009-03-17T22:28:00.003+01:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ Aforismes, ES ]
 image: frases2.webp
 ---

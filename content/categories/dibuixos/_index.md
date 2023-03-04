@@ -1,10 +1,10 @@
 ---
-title: Ficció
+title: Dibuixos
 description:
 image:
 
 # Badge style
 style:
-    background: "#C2475C"
+    background: "#0177b8"
     color: "#fff"
 ---

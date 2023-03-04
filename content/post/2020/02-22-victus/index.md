@@ -2,7 +2,7 @@
 title: Victus
 description: Albert Sánchez Piñol
 date: '2020-02-22T08:01:00.000+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ CAT ]
 image: victus.webp
 rating: 5

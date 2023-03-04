@@ -2,7 +2,7 @@
 title: Plataforma
 description: Michel Houellebecq
 date: '2017-11-29T18:13:00.000+01:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: plataforma.webp
 rating: 4

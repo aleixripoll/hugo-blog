@@ -2,7 +2,7 @@
 title: Momo
 description: Michael Ende
 date: '2015-11-29T12:04:00.001+01:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: momo.webp
 rating: 3.5

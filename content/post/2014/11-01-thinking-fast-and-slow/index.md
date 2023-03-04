@@ -2,7 +2,7 @@
 title: Thinking, fast and slow
 description: Daniel Kahneman
 date: '2014-11-01T18:04:00.001+01:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ EN, Psicologia ]
 image: thinking_fast_slow.webp
 rating: 4

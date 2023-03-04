@@ -2,7 +2,7 @@
 title: The unlikely pilgrimage of Harold Fry
 description: Rachel Joyce
 date: '2015-11-29T12:23:00.000+01:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ EN ]
 image: harold_fry.webp
 rating: 4

@@ -2,7 +2,7 @@
 title: La civilización empática
 description: Jeremy Rifkin
 date: '2013-07-14T14:53:00.000+02:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: civilizacion_empatica.webp
 rating: 3

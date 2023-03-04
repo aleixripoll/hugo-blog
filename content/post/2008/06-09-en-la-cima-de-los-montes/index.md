@@ -2,7 +2,7 @@
 title: Más allá del bien y del mal
 date: '2008-06-09T12:13:00.015+02:00'
 description: Friedrich Nietzsche
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: mas_alla_bien_mal.webp
 rating: 3

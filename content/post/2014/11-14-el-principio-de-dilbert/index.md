@@ -2,7 +2,7 @@
 title: El principio de Dilbert
 description: Scott Adams
 date: '2014-11-14T14:20:00.000+01:00'
-categories: [ Còmics ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: principio_dilbert.webp
 rating: 4

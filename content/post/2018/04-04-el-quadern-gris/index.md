@@ -2,7 +2,7 @@
 title: El quadern gris
 description: Josep Pla
 date: '2018-04-04T18:13:00.001+02:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ CAT ]
 image: josep_pla.webp
 rating: 3.5

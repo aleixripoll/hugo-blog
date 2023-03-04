@@ -2,7 +2,7 @@
 title: La insoportable levedad del ser
 description: Milan Kundera
 date: '2009-06-14T12:02:00.017+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: insoportable_levedad_ser.webp
 rating: 4.5

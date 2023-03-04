@@ -2,7 +2,7 @@
 title: La broma
 description: Milan Kundera
 date: '2012-12-20T22:01:00.000+01:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: la_broma.webp
 rating: 3.5

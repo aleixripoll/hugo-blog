@@ -2,7 +2,7 @@
 title: Rebelarse vende
 description: Joseph Heath, Andrew Potter
 date: '2019-03-02T11:16:00.001+01:00'
-categories: [ No-ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: rebelarse_vende.webp
 rating: 4

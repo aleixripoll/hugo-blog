@@ -2,7 +2,7 @@
 title: Trainspotting
 description: Irvine Welsh
 date: '2008-06-14T15:35:00.004+02:00'
-categories: [ Ficció ]
+categories: [ Llibres ]
 tags: [ ES ]
 image: trainspotting.webp
 ---
