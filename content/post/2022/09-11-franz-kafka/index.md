@@ -3,7 +3,7 @@ title: Soy una jaula
 description: Franz Kafka
 date: 2022-09-11 14:18:00+0200
 image: franz_kafka.webp
-categories: [ Llibres ]
+categories: [ Llibres, Dibuixos ]
 tags:
     - ES
     - Aforismes
