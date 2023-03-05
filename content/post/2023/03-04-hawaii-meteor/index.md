@@ -3,7 +3,7 @@ title: Hawaii Meteor
 description: Jair Domínguez
 date: 2023-03-04 18:15:00+0200
 image: hawaii_meteor.webp
-categories: [ Llibres ]
+categories: [ Llibres, Dibuixos ]
 tags:
     - CAT
 ---
