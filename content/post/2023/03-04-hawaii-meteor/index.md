@@ -8,9 +8,7 @@ tags:
     - CAT
 ---
 
-Quan en Junior Montblanc va sentir la sentència del Constitucional sobre la immersió lingüística només se li va acudir una cosa: aparcar el cotxe davant de la casa de la presidenta del Tribunal armat amb una escopeta de matar senglars i esperar que la dona hi arribés. Va esperar-s’hi dotze hores seguides, bevent Red Bull i menjant pipes sense parar i, en veure que la presidenta no arribava, va marxar.
-
-Ara, en Junior Montblanc va a cursets per gestionar la ràbia i ha llogat un petit xalet adossat en una urbanització als afores. Arriba a casa el primer dia i descobreix que els seus veïns són uns putos xarnegos: bandera espanyola, tovallola amb el toro, crits, gossos i el cotxe aparcat ocupant mig carrer. No hi ha lloc pel preciós cotxe d’en Junior, un Fiat Spider Sport del 68 amb el seient rebaixat i els pedals substituïts per paletes a la part posterior del volant.
+(...) en Junior Montblanc va a cursets per gestionar la ràbia i ha llogat un petit xalet adossat en una urbanització als afores. Arriba a casa el primer dia i descobreix que els seus veïns són uns putos xarnegos: bandera espanyola, tovallola amb el toro, crits, gossos i el cotxe aparcat ocupant mig carrer. No hi ha lloc pel preciós cotxe d’en Junior, un Fiat Spider Sport del 68 amb el seient rebaixat i els pedals substituïts per paletes a la part posterior del volant.
 
 En Junior baixa del cotxe i veu el fill de puta del veí: quaranta anys, panxa de set mesos, calb, sense samarreta, banyador Adidas i xancles de piscina pública. A en Junior, com a bon català, no li agrada que els espanyols vinguin a Catalunya a vantar-se dels seus símbols, perquè la línia que separa l’orgull de la provocació és tan fina que la majoria de vegades no existeix. A en Junior li repugna el concepte Espanya, però encara li repugna més la gent que en fa bandera.
 
