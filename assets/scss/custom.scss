@@ -85,7 +85,7 @@ footer.site-footer {
         width: 100%;
         height: auto;
         max-height: 350px;
-        filter: grayscale(20%) brightness(90%);
+        filter: grayscale(10%) brightness(90%);
     }
 }
 
@@ -120,7 +120,7 @@ footer.site-footer {
             img {
                 max-height: 55vh;
                 object-fit: cover;
-                filter: grayscale(20%) brightness(90%);
+                filter: grayscale(10%) brightness(90%);
             }
         }
     }
