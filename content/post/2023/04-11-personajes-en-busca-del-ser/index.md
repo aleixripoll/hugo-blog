@@ -4,7 +4,9 @@ description: Claudio Naranjo
 date: 2023-04-11 20:24:00+0200
 image: claudio_naranjo.webp
 categories: [ Llibres ]
-tags: [ ES ]
+tags:
+    - ES
+    - Psicologia
 ---
 
 El primer paso hacia la transformación del seis contrafóbico no es fácil: reconocerse en el E6 significa tomar contacto con la parte pasional/emocional que es el miedo. Para reconocer el miedo como motivación subyacente al comportamiento y a la estructu­ra cognitiva, el contrafóbico tiene que dar un paso paradójico: sentir la emoción miedo.

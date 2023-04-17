@@ -4,7 +4,9 @@ description: Bessel van der Kolk
 date: 2023-04-17 19:27:00+0200
 image: bessel_van_der_kolk.webp
 categories: [ Llibres ]
-tags: [ ES ]
+tags:
+    - ES
+    - Psicologia
 ---
 
 Una de las cosas que nos sorprendió a mi compañero Mark Greenberg y a mí cuando conducíamos grupos de terapia para los veteranos de Vietnam fue ver cómo, a pesar de sus sentimientos de horror y de duelo, muchos de ellos parecían volver a la vida al hablar de sus accidentes de helicóptero y de sus compañeros moribundos. Muchas personas traumatizadas parecen buscar experiencias que nos repelerían a la mayoría, y los pacientes suelen quejarse de una vaga sensación de vacío y de aburrimiento cuando no están enfadados, bajo coacción o realizando alguna actividad peligrosa.
