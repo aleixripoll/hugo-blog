@@ -1,7 +1,7 @@
 ---
 title: El cuerpo lleva la cuenta
 description: Bessel van der Kolk
-date: 2023-04-17 19:27:00+0200
+date: 2023-06-10 16:34:00+0200
 image: bessel_van_der_kolk.webp
 categories: [ Llibres ]
 tags:
