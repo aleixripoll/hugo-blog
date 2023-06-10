@@ -17,5 +17,5 @@ hasCJKLanguage = false
 
 [languages]
   [languages.ca]
-    title = 'Limbo'
+    title = 'limbo'
     weight = 1
