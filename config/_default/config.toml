@@ -14,3 +14,8 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 #disqusShortname = "aleixripoll"
+
+[languages]
+  [languages.ca]
+    title = 'Limbo'
+    weight = 1
