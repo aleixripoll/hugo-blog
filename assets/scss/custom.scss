@@ -5,7 +5,7 @@
     --small-card-padding: 15px 25px;
     font-kerning: normal;
     --card-border-radius: 5px;
-    --tag-border-radius: 4px;
+    --tag-border-radius: 2px;
     --background-color-darker: #2c3e50;
 
     &[data-scheme="light"] {
@@ -58,9 +58,9 @@ body {
     }
 }
 
-.article-list article .article-category a {
+/*.article-list article .article-category a {
     border: 1px solid var(--card-background);
-}
+}*/
 
 footer.site-footer {
     &::before {
@@ -183,7 +183,7 @@ h2 {
 .article-category a,
 .article-tags a {
     padding: 6px 12px;
-    font-size: 1.5rem;
+    //font-size: 1.5rem;
 }
 
 .article-subtitle {
@@ -317,7 +317,7 @@ h2.archives-date.section-title {
     .widget a {
         color: var(--accent-color-text);
         background-color: var(--accent-color);
-        transition: background-color 0.5s ease;
+        transition: background-color 0.3s ease;
     }
     .widget a:hover {
         color: var(--accent-color-text);
@@ -330,7 +330,7 @@ h2.archives-date.section-title {
         color: var(--accent-color-text);
     }
     .article-list article .article-category a:hover {
-        background-color: #2c3e50 !important;
+        background-color: #555 !important;
     }
 }
 
