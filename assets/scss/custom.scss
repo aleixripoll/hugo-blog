@@ -15,7 +15,7 @@
         --card-text-color-main: #111;
         --card-text-color-secondary: rgb(194, 71, 92);
         --card-text-color-tertiary: #444;
-        --card-background: rgba(243, 243, 243, 0.3);
+        --card-background: rgba(255, 255, 255, 0.3);
         --card-background-selected: rgba(255, 255, 255, 0.3);
         --card-widget-color: #eee;
         --card-widget-background: #555;
@@ -131,7 +131,7 @@ footer.site-footer {
         > p:not(.no-text) {
             margin: 0.7em auto;
             text-indent: 20px;
-            max-width: 630px;
+            max-width: 640px;
         }
     }
     .article-footer .article-tags {
