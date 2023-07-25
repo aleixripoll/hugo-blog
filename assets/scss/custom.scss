@@ -35,10 +35,6 @@
     }
 }
 
-/*body {
-	margin: 20px 0 0 0;
-}*/
-
 .disqus-container {
     display: none
 }
@@ -187,7 +183,7 @@ h2 {
 
 .article-tags a:before {
     content: '#';
-    padding-right: 1px;
+    padding-right: 0.5px;
 }
 
 .article-tags a {

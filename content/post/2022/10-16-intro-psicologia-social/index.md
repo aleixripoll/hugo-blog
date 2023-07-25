@@ -3,7 +3,7 @@ title: Introducción a la Psicología Social
 description: UNED
 date: 2022-10-16 14:14:00+0200
 image: intro_psicologia_social.webp
-categories: [ Llibres, Dibuixos ]
+categories: [ Llibres ]
 tags:
     - ES
     - Psicologia
