@@ -83,6 +83,7 @@ footer.site-footer {
         margin-right: auto;
         width: 100%;
         height: auto;
+        object-fit: cover !important;
         max-height: 150px;
         filter: grayscale(10%) brightness(90%);
     }
