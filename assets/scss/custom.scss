@@ -38,10 +38,6 @@
     }
 }
 
-body {
-	background: var(--body-background) !important;
-}
-
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
 	background-color: var(--card-text-color-main) !important;
 }
