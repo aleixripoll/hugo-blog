@@ -83,7 +83,7 @@ footer.site-footer {
         margin-right: auto;
         width: 100%;
         height: auto;
-        max-height: 350px;
+        max-height: 150px;
         filter: grayscale(10%) brightness(90%);
     }
 }
@@ -93,7 +93,7 @@ footer.site-footer {
 }
 
 .article-title {
-    font-size: 2rem;
+    font-size: 1.9rem;
     line-height: 1.2em;
 }
 
@@ -117,7 +117,7 @@ footer.site-footer {
         }
         .article-image {
             img {
-                max-height: 55vh;
+                max-height: 50vh;
                 object-fit: cover;
                 filter: grayscale(10%) brightness(90%);
             }
@@ -204,11 +204,15 @@ h2 {
 
 .article-subtitle {
     line-height: 1;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
 }
 
 .sidebar header .site-name {
     font-size: 2rem;
+}
+
+.article-time time, .article-time a, .article-translations time, .article-translations a {
+	font-size: 1.2rem;
 }
 
 .article-list--compact article {
