@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://aleixripoll.github.io/limbo/"
+baseurl = "https://aleixripoll.github.io/limbo-stack-theme/"
 languageCode = "ca"
 paginate = 9
 title = "limbo"
